@@ -2,7 +2,7 @@
 
 - **Title**: Learning Programming
 - **Video File Name**: Learning Programming in 2022
-- **Preview Video TimeLines**: 
+- **Preview Video TimeLines**: 04:07 to 05:20
 - Host: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
 - Experts: 
 	- [Koushik Kothagal](https://www.linkedin.com/in/koushikkothagal)
