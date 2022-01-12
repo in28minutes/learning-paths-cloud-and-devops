@@ -13,7 +13,7 @@ None
 
 ### Text Overlays
 
-##### During Introduction
+During Introduction
 
 Three Key Elements:
 1. Communication

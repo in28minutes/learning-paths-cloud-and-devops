@@ -13,13 +13,6 @@
 
 None
 
-##### During Introduction
-
-Three Key Elements:
-1. Communication
-2. Feedback
-3. Automation
-
 
 ### Video Description
 
