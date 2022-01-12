@@ -2,12 +2,24 @@
 
 - **Title**: Learning DevOps
 - **Video File Name**: Learning DevOps in 2022
+- **Preview Video TimeLines**: Learning DevOps in 2022 - 02 : 18:44 to 19:37
 - Host: [Amit Davé](https://www.linkedin.com/in/amdave/)
 - Expert: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
 
+
 ### Image Overlays
 
+None
+
 ### Text Overlays
+
+##### During Introduction
+
+Three Key Elements:
+1. Communication
+2. Feedback
+3. Automation
+
 
 ### Video Description
 
@@ -29,5 +41,5 @@ Expert - Ranga Karnam, founder of In28Minutes. He has helped more than 1 million
 - ► Course - Master DevOps  - https://links.in28minutes.com/DevOps-SBT
 
 
-### Script
+### Script Outline
 

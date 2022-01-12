@@ -1,8 +1,7 @@
-##  Learning DevOps
+##  Title
 
-- **Title**: 
 - **Video File Name**:
-- **Preview TimeLines**: 
+- **Preview Video TimeLines**: 
 - Host: [Host]()
 - Expert: [Expert]()
 

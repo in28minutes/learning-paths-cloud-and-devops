@@ -2,6 +2,7 @@
 
 - **Title**: Learning Programming
 - **Video File Name**: Learning Programming in 2022
+- **Preview Video TimeLines**: 
 - Host: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
 - Experts: 
 	- [Koushik Kothagal](https://www.linkedin.com/in/koushikkothagal)
@@ -18,17 +19,18 @@ None
 
 ### Video Description
 
-Host - 
-Expert - 
+Host - [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
+Experts - [Koushik Kothagal](https://www.linkedin.com/in/koushikkothagal), [Navin Reddy - Telusko](https://in.linkedin.com/in/navinreddy20) and [Hitesh Choudary](https://in.linkedin.com/in/hiteshchoudhary)
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
-- ► Point 1
-- ► Point 2
-- ► Point 3
+- ► How to learn programming?
+- ► What are the things you want to focus on when starting your programming journey?
+- ► What's the role of competitive programming and hackathons?
+- ► Importance of learning to debug problems
+- ► Importance of being good at the IDE
 
 ▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
-- ► Video - Title - Link
-- ► Video - Title - Link
+- None
 
 
 ### Script
