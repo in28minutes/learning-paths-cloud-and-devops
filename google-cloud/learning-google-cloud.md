@@ -4,6 +4,9 @@
 - **Video File Name**: Learning Google Cloud in 2022
 - **Preview Video TimeLines**: 
 
+### EDITING
+
+There is coversation around minutes 36 to 39 that needs to be edited. 
 
 ### Image Overlays
 
