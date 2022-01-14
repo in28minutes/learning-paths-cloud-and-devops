@@ -2,7 +2,7 @@
 
 - **Title**: Learning Google Cloud
 - **Video File Name**: Learning Google Cloud in 2022
-- **Preview Video TimeLines**: 07:05 to 08:23
+- **Preview Video TimeLines**: 
 
 
 ### Image Overlays
