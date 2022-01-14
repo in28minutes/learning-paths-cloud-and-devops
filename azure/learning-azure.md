@@ -3,7 +3,7 @@
 - **Title**: Learning Azure
 - **Video File Name**: Learning Azure in 2022
 - **Preview Video TimeLines**: 07:05 to 08:23
-- Host: Vinay
+- Host: [Vinay Nair](https://www.linkedin.com/in/vinay-nair-278892145/)
 - Expert: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
 
 
@@ -17,7 +17,7 @@ None
 
 ### Video Description
 
-Host: Vinay
+Host: Vinay Nair
 
 Expert - Ranga Karnam, founder of In28Minutes. He has helped more than 1 million learners around the world acquire new skills in #DevOps, #Cloud and Programming.
 
