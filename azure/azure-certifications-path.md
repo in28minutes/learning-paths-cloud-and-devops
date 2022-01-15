@@ -38,7 +38,7 @@ None
 
 ### Script Outline
 
-'''
+```
 So Today we will focusing our discussion on certifications to do in Azure in the year 2022. 
 So , my first question that I would like to ask and is a very basic one 
 Why should we start with Azure as preferred cloud to learn?
@@ -88,4 +88,4 @@ Labs? Courses??
 
 5.)	Exam strategy? Generic tips and tricks
 a.	Mark the questions and Review - Fresh perspective later will be really helpful
-'''
+```
