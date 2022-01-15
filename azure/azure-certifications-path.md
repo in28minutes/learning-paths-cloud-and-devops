@@ -1,4 +1,4 @@
-##  Learning Azure
+##  Azure Certification Path in 2022
 
 - **Title**: Azure Certification Path in 2022
 - **Video File Name**: Azure Certification Path in 2022
@@ -35,8 +35,8 @@ None
 
 ▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
 
-- ► Susanth Website : https://www.youtube.com/watch?v=hyJp11vwumQ
-- ► Eshant Website : https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=azure
+- ► Susanth Website : https://www.aguidetocloud.com/
+- ► Eshant Website : https://learncloud.info/
 - ► Hands-ON exercise: https://github.com/MicrosoftLearning
 - ► Microsoft Documentation for AZ-900 exams: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
 - ► Exam Scheduling Page for AZ-900 : https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
