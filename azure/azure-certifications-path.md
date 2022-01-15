@@ -4,6 +4,12 @@
 - **Video File Name**: Azure Certification Path in 2022
 - **Preview Video TimeLines**: 
 
+### Video Editing Timelines To Look Carefully
+
+- 08:05 - 1 minute before and after
+- 24:00 - 1 minute before and after
+- 27:06 - 1 minute before and after
+
 ### Image Overlays
 
 None
