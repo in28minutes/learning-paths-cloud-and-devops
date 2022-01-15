@@ -13,7 +13,7 @@ None
 
 ### Text Overlays
 
-None
+32:02 - oops ... Cloud and Devops are easy to learn :)
 
 ### Video Description
 
