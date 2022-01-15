@@ -2,9 +2,7 @@
 
 - **Title**: Learning AWS
 - **Video File Name**: Learning AWS in 2022
-- **Preview Video TimeLines**: Comparing AWS vs GCP vs Azure [Need to exact timeline in the video!]
-- Host: [Kapil](https://twitter.com/kkdwivedi13out1)
-- Expert: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
+- **Preview Video TimeLines**: 06:40 to 08:24
 
 
 ### Image Overlays
@@ -17,9 +15,8 @@ None
 
 ### Video Description
 
-Host: Kapil
-
-Expert - Ranga Karnam, founder of In28Minutes. He has helped more than 1 million learners around the world acquire new skills in #DevOps, #Cloud and Programming.
+- Host: [Kapil](https://twitter.com/kkdwivedi13out1)
+- Expert: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 - ► Why Cloud?
