@@ -2,9 +2,9 @@
 
 - **Title**: Learning Google Cloud
 - **Video File Name**: Learning Google Cloud in 2022
-- **Preview Video TimeLines**: 
+- **Preview Video TimeLines**: Two previews please (35:12 to 36:20 and 36:32 to 37:20)
 
-### EDITING
+### EDITING TIPS
 
 There is coversation around minutes 36 to 39 that needs to be edited. 
 
