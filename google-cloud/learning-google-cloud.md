@@ -23,8 +23,12 @@ Host: [Amit Dave](https://www.linkedin.com/in/amdave/)
 Experts: [Sathish VJ](https://www.linkedin.com/in/sathishvj/), [GK](https://www.linkedin.com/in/chaitanya-gk/) and [Ranga Karanam](https://www.linkedin.com/in/rangakaranam)
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
+► 1. What is Cloud and why cloud - Benefits to an enterprise by moving from on premise to Cloud 
+► 2. Common myths around Cloud 
+► 3. Why Google Cloud - What native benefits does Google Cloud have over other Cloud providers 
+► 4. How to start learning Google Cloud - [Certification paths](https://cloud.google.com/certification), [Coursera](https://www.coursera.org/), [Qwiklabs](https://go.qwiklabs.com/qwiklabs-free), etc... 
 
-▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
+▬▬▬▬▬▬ Learning Resources 🔗 ▬▬▬▬▬▬ 
 
 - ► Video - Introduction to AZ-900 : https://www.youtube.com/watch?v=hyJp11vwumQ
 - ► Role Based Certification (Choose the role on the left side) : https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=Google Cloud
