@@ -30,12 +30,13 @@ Experts: [Sathish VJ](https://www.linkedin.com/in/sathishvj/), [GK](https://www.
 
 ▬▬▬▬▬▬ Learning Resources 🔗 ▬▬▬▬▬▬ 
 
-- ► Video - Introduction to AZ-900 : https://www.youtube.com/watch?v=hyJp11vwumQ
-- ► Role Based Certification (Choose the role on the left side) : https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=Google Cloud
-- ► Hands-ON exercise: https://github.com/MicrosoftLearning
-- ► Microsoft Documentation for AZ-900 exams: https://docs.microsoft.com/en-us/learn/certifications/Google Cloud-fundamentals/
-- ► Exam Scheduling Page for AZ-900 : https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
-
+* [Learning paths](https://cloud.google.com/training#learning-paths)
+* [Cousera](https://www.coursera.org/googlecloud)
+* [Plurasight](https://www.pluralsight.com/partners/google/cloud)
+* [Register for certification exam](https://webassessor.com/googlecloud)
+* [Certification exam breakdown](https://cloud.google.com/blog/topics/developers-practitioners/how-become-certified-cloud-professional)
+* [GitRepo of Shatish VJ](https://github.com/sathishvj/awesome-gcp-certifications)
+* [YouTube Channel of GK](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ)
 
 ### Script Outline
 
