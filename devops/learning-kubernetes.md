@@ -40,8 +40,9 @@ https://kubernetes.io/docs/concepts/
 ► Yaml: https://developer.ibm.com/tutorials/yaml-basics-and-usage-in-kubernetes/
 ► Linux commands on containers: https://developer.ibm.com/tutorials/linux-basics-and-commands/
 
-```
+▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
+```
 ### Social Media Post
 
 ```

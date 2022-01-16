@@ -3,8 +3,6 @@
 - **Title**: Learning DevOps
 - **Video File Name**: Learning DevOps in 2022
 - **Preview Video TimeLines**: Learning DevOps in 2022 - 02 : 18:44 to 19:37
-- Host: [Amit Davé](https://www.linkedin.com/in/amdave/)
-- Expert: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
 
 ### Video Editing Guidelines
 
@@ -50,6 +48,8 @@ Amit Davé (https://www.linkedin.com/in/amdave/) and Ranga Karanam (https://in.l
 ► Video - Kubernetes 101 - https://www.youtube.com/watch?v=jW_-KZCjsm0
 ► Video - Terraform 101 - https://www.youtube.com/watch?v=aK-Qu_w5ch0
 ► Course - Master DevOps  - https://links.in28minutes.com/DevOps-SBT
+
+▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 ```
 
 
