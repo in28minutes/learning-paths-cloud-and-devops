@@ -18,9 +18,9 @@ None
 
 ### Video Description
 
-Host: [Amit]()
+Host: [Amit Dave](https://www.linkedin.com/in/amdave/)
 
-Experts: [A](), [B]() and [C]()
+Experts: [Sathish VJ](https://www.linkedin.com/in/sathishvj/), [GK](https://www.linkedin.com/in/chaitanya-gk/) and [Ranga Karanam](https://www.linkedin.com/in/rangakaranam)
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 
