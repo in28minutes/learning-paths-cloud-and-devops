@@ -50,6 +50,19 @@ Amit Davé (https://www.linkedin.com/in/amdave/) and Ranga Karanam (https://in.l
 ► Course - Master DevOps  - https://links.in28minutes.com/DevOps-SBT
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
+00:00:39 What is DevOps?
+00:03:26 Is DevOps Agile 2.0?
+00:05:03 Should learners start with Agile first?
+00:07:02 What are the responsibilities of Dev and Ops teams?
+00:08:10 What are the important DevOps practices?
+00:14:23 How can learners start learning DevOps? 
+00:17:44 Should you learn 100s of DevOps tools?
+00:18:37 How can you make time for DevOps?
+00:20:06 What are the different DevOps roles? What should developers focus on?
+00:23:22 How can a tester learn DevOps?
+00:26:18 How can a business analyst learn DevOps?
+00:28:38 How hard is it to learn DevOps?
+00:30:39 What is the importance of T shaped skills?
 ```
 
 
