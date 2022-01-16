@@ -12,7 +12,7 @@ If you have a question, please feel free to raise an issue or comment on a YouTu
 | Title  | Status |  GitHub|
 | ------------- | ------------- | ------------- |
 | Learning Programming in 2022  | [Video](https://www.youtube.com/watch?v=iR-_id4BN1k) | [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/programming/learn-programming.md)|
-| Learning DevOps in 2022  | Ready to Publish | [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-devops.md)|
+| Learning DevOps in 2022  | [Video](https://youtu.be/OrJ7_3kkYT8) | [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-devops.md)|
 | Learning Docker in 2022 | Video Editing |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-docker.md)|
 | Learning Kubernetes in 2022 | Video Editing |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-kubernetes.md)|
 | Learning Azure in 2022 | Video Editing |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/learning-azure.md)|
