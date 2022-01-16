@@ -4,7 +4,7 @@
 - **Video File Name**: Azure Certification Path in 2022
 - **Preview Video TimeLines**: 47:16 - 49:08
 
-### Video Editing Timelines To Look Carefully
+### Video Editing Guidelines
 
 - 08:05 - 1 minute before and after
 - 24:00 - 1 minute before and after
@@ -20,27 +20,51 @@ None
 None
 
 ### Video Description
-- Host:   [Vinay Nair](https://www.linkedin.com/in/vinay-nair-278892145/)
-- Expert: [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
-- Expert: [Susanth Sutheesh](https://www.linkedin.com/in/susanthsutheesh/)
-- Expert: [Eshant Garg](https://www.linkedin.com/in/eshantgarg/)
 
+```
+Azure Certification Path in 2022. Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss the most important questions that learners have about Azure Certifications.
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
-- ► Why should we start with Azure as preferred cloud to learn?
-- ► Is certifications right way to start learning Azure
-- ► Is Azure Fundamental certification good way to start one’s cloud journey
-- ► What’s the Best Microsoft Azure Certification Path one should follow?
-- ► Once Certifications are chosen right approach to proceed and learn 
-- ► Exam strategy? Generic tips and tricks
+► Why should we start with Azure as preferred cloud to learn?
+► Is certifications right way to start learning Azure
+► Is Azure Fundamental certification good way to start one’s cloud journey
+► What’s the Best Microsoft Azure Certification Path one should follow?
+► Once Certifications are chosen right approach to proceed and learn 
+► Exam strategy? Generic tips and tricks
 
 ▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
 
-- ► Susanth Website : https://www.aguidetocloud.com/
-- ► Eshant Website : https://learncloud.info/
-- ► Hands-ON exercise: https://github.com/MicrosoftLearning
-- ► Microsoft Documentation for AZ-900 exams: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
-- ► Exam Scheduling Page for AZ-900 : https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+► Susanth Website : https://www.aguidetocloud.com/
+► Eshant Website : https://learncloud.info/
+► Hands-ON exercise: https://github.com/MicrosoftLearning
+► Microsoft Documentation for AZ-900 exams: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
+► Exam Scheduling Page for AZ-900 : https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+
+▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
+
+```
+
+### Social Media Post
+
+```
+How do I start with Azure?
+
+Which certifications to do?
+
+I've no knowledge of the cloud. How should I get started?
+
+These are some of the questions that a number of beginner reach out to me with.
+
+Azure experts - Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss the most important questions that learners have about Azure Certifications in this video.
+
+Here are some of the things we talked about:
+USE DISCUSSION POINTS FROM ABOVE!
+
+Thanks Susanth, Eshant and Vinay for taking the time to do this. 
+
+Do let us know if you want to see more discussions like these!
+
+```
 
 
 ### Script Outline

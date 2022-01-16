@@ -17,24 +17,70 @@ None
 
 None
 
-### Video Description
+### YouTube Video Description
 
-Host - [Ranga Karanam](https://in.linkedin.com/in/rangakaranam)
-Experts - [Koushik Kothagal](https://www.linkedin.com/in/koushikkothagal), [Navin Reddy - Telusko](https://in.linkedin.com/in/navinreddy20) and [Hitesh Choudary](https://in.linkedin.com/in/hiteshchoudhary)
+```
+How to Learn Programming in 2022?
+
+Host - Ranga Karanam (https://in.linkedin.com/in/rangakaranam)
+Experts - Koushik Kothagal (https://www.linkedin.com/in/koushikkothagal), Navin Reddy - Telusko (https://in.linkedin.com/in/navinreddy20) and Hitesh Choudary(https://in.linkedin.com/in/hiteshchoudhary)
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
-- ► How to learn programming?
-- ► What are the things you want to focus on when starting your programming journey?
-- ► What's the role of competitive programming and hackathons?
-- ► Importance of learning to debug problems
-- ► Importance of being good at the IDE
+► How to learn to program?
+► What are the things you want to focus on when starting your programming journey?
+► What's the role of competitive programming and hackathons?
+► Importance of learning to debug problems
+► Importance of being good at the IDE
 
 ▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
 - None
 
+▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
+00:00:00 Bits and Bytes
+00:11:09 Learning is Continuous
+00:17:47 How can a learner start his journey?
+00:31:20 Java or Python or JavaScript
+00:40:40 What is the role of competitive programming?
+00:42:56 Importance of learning to debug problems
+00:46:51 How important is to learn an IDE
+00:52:24 Be careful about this when you learn System Design
+01:02:35 How to start unit testing, TDD, pair programming?
+01:10:30 How to get better at working in a team?
+01:14:56 How do you take a break from work?
+01:18:36 Any project you want to highlight?
+01:26:59 Anything that you think I missed asking?
+01:27:33 Most important advice for programmers
+
+```
+
+### Social Media Posts
+
+```
+How about learning the best approach to start your programming career or getting better at programming from three of the most influential content creators (Koushik Kothagal, Navin Reddy and Hitesh Choudhary) in the programming world?
+
+Excellence is a habit. Each of the three people you see here is an example of it. They found their own way to be consistent and learn every day. Learning enables you to be great at the job. Go ahead keep learning every day!
+
+Here are some of the things we talked about:
+► Importance of Continuous Learning
+► How to keep up with technology changes?
+► Learners today are expected to know a lot. How do they manage?
+► Java, JavaScript, or Python - How does somebody starting their programming career choose?
+► What's the role of competitive programming and hackathons?
+► Importance of learning to debug problems?
+► Importance of being good at the IDE
+► How to learn to be better at working in a team?
+► How do you take a break from work?
+► Any project you want to highlight?
+
+
+Here's the complete conversation - https://lnkd.in/gQZxRsgi
+
+#learning #python #project #programming #career #technology #people #content #java
+```
 
 ### Script
 
+```
 It is no exaggeration to say I'm with three of the most influential content creators in the Indian programming world today.
 
 - Importance of Continuous Learning
@@ -74,3 +120,4 @@ It is no exaggeration to say I'm with three of the most influential content crea
 	- Any project you want to highlight? What can learners expect to see in future?
 	- Anything that you think I missed asking?
 - Excellence is a habit. Each of the three people you are seeing here is an example of it. They found their own way to be consistent and learn every day. Learning enables you to be great at the job. Go ahead keep learning every day and I will see you again!
+```

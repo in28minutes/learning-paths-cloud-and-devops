@@ -2,27 +2,38 @@
 
 - **Video File Name**:
 - **Preview Video TimeLines**: 
-- Host: [Host]()
-- Expert: [Expert]()
+
+### Video Editing Guidelines
 
 ### Image Overlays
 
 ### Text Overlays
 
-### Video Description
+### YouTube Video Description
 
+```
 Host - 
 Expert - 
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
-- ► Point 1
-- ► Point 2
-- ► Point 3
+► Point 1
+► Point 2
+► Point 3
 
 ▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
-- ► Video - Title - Link
-- ► Video - Title - Link
+► Video - Title - Link
+► Video - Title - Link
 
+▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
+```
+
+### Social Media Post
+
+```
+```
 
 ### Script
 
+```
+Script goes here
+```
