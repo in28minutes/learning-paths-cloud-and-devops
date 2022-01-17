@@ -57,12 +57,16 @@ These are some of the questions that a number of beginner reach out to me with.
 
 Azure experts - Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss the most important questions that learners have about Azure Certifications in this video.
 
+Thanks Susanth, Eshant and Vinay for taking the time to be part of this.
+
 Here are some of the things we talked about:
 USE DISCUSSION POINTS FROM ABOVE!
 
-Thanks Susanth, Eshant and Vinay for taking the time to do this. 
+We will be creating more videos as we go.
 
-Do let us know if you want to see more discussions like these!
+Which Azure topic should the team talk about next? 
+
+Thoughts?
 
 ```
 

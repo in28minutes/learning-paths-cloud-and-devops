@@ -57,12 +57,18 @@ I've no knowledge of the cloud. How should I get started?
 
 These are some of the questions that a number of beginner reach out to me with.
 
-Amit Dave (https://www.linkedin.com/in/amdave/) moderates a discussion with Sathish VJ(https://www.linkedin.com/in/sathishvj/), GK - Cloud Advocate(https://www.linkedin.com/in/chaitanya-gk/) and Ranga Karanam(https://www.linkedin.com/in/rangakaranam).
+Sathish VJ(https://www.linkedin.com/in/sathishvj/), GK - Cloud Advocate(https://www.linkedin.com/in/chaitanya-gk/) and Amit Dave (https://www.linkedin.com/in/amdave/) join me in this discussion.
+
+Thanks Sathish, GK and Amit for taking the time to be part of this discussion.
 
 Here are some of the things we talked about:
 USE DISCUSSION POINTS FROM ABOVE!
 
-Do let us know if you want to see more discussions like these!
+We will be creating more videos as we go.
+
+Which Google Cloud topic should the team talk about next? 
+
+Thoughts?
 
 #cloud #gcp #googlecloud #in28minutes
 
