@@ -36,9 +36,20 @@ Learning Docker in 2022. Pavan Kumar and Ranga Karanam (https://in.linkedin.com/
 ► Course - Master DevOps  - https://links.in28minutes.com/DevOps-SBT
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
+00:00:00 Introduction
+00:00:33 Why do we need Docker?
+00:02:42 Where can we use Docker?
+00:04:24 Who should learn Docker?
+00:07:20 How has Docker impacted the Software Industry?
+00:10:16 How can you start learning Docker?
+00:16:27 What is Docker Hub?
+00:20:15 Importance of understanding Networking
+00:25:27 Conclusion
+
 ```
 
 ### Social Media Post
+
 
 ```
 Why is Docker important for DevOps?
@@ -52,7 +63,11 @@ These are some of the questions that a number of beginner reach out to me with.
 Pavan Kumar and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
 
 Here are some of the things we talked about:
-USE DISCUSSION POINTS FROM ABOVE!
+► What is Docker?
+► Why do we need Docker?
+► How does Docker simplify microservices architectures?
+► Why is Docker popular?
+► How can professions performing various roles (developer, tester and operations) learn docker? What should they focus on?
 
 Do let us know if you want to see more discussions like these!
 

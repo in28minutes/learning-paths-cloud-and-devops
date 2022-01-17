@@ -43,13 +43,23 @@ Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(
 ► Exam Scheduling Page for AZ-900 : https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-
+00:00:00 Introduction
+00:00:41 Why Cloud?
+00:05:04 Which Cloud we should choose to learn (AWS, Azure, Google ?)
+00:10:20 How to start learning Azure?
+00:11:56 Which certifications to start with?
+00:13:39 Role specific certifications
+00:15:15 How to get Hands-on?
+00:18:00 Any tips for New learners?
+00:26:35 Is learning cloud expensive?
+00:32:00 Learning Azure is easy, fast and not very expensive!
 ```
 
 ### Social Media Post
 
 ```
-How do I start with AWS?
+
+How do I start with Azure?
 
 Which certifications to do?
 
@@ -60,7 +70,16 @@ These are some of the questions that a number of beginner reach out to me with.
 Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
 
 Here are some of the things we talked about:
-USE DISCUSSION POINTS FROM ABOVE!
+► Why Cloud?
+► Which Cloud we should choose to learn (AWS , Azure ,Google ?)
+► How to start learning Azure?
+► Are certifications a good way to start Azure journey?
+► Which certifications to start with?
+► What kind of role specific certifications are provided?
+► How to get hands-on with Azure?
+► Learning Azure is easy, fast and a lot of fun (and not very expensive!)
+
+Here's the complete video: https://youtu.be/c7SJCg87Ywo
 
 Do let us know if you want to see more discussions like these!
 

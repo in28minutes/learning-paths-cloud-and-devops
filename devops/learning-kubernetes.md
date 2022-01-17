@@ -19,6 +19,7 @@ None
 ### YouTube Video Description
 
 ```
+
 Learning Kubernetes in 2022. Pavan Kumar and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss the important beginner questions about Kubernetes in depth in this video.
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
@@ -41,7 +42,21 @@ https://kubernetes.io/docs/concepts/
 ► Linux commands on containers: https://developer.ibm.com/tutorials/linux-basics-and-commands/
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-
+00:00:00 Introduction
+00:00:45 Why do we need Kubernetes?
+00:03:33 Where is Kubernetes Used?
+00:05:04 Who need to learn Kubernetes?
+00:07:09 How did Kubernetes evolve?
+00:08:04 How do I learn Kubernetes?
+00:09:12 Some Kubernetes Best Practices
+00:13:18 Kubernetes Networking
+00:14:39 Basic Concepts of Kubernetes
+00:18:15 Advanced Kubernetes Concepts
+00:20:26 Advantages of Declarative Configuration
+00:21:46 What is a Service Mesh?
+00:26:43 Some tricks and tips for Kubernetes
+00:30:02 What is a Service?
+00:31:33 Conclusion
 ```
 ### Social Media Post
 
@@ -57,7 +72,13 @@ These are some of the questions that a number of beginner reach out to me with.
 Pavan Kumar and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
 
 Here are some of the things we talked about:
-USE DISCUSSION POINTS FROM ABOVE!
+► What is Kubernetes?
+► Why do we need Kubernetes?
+► How does Kubernetes simplify microservices architectures?
+► Why is Kubernetes popular?
+► How can professions performing various roles (developer, tester and operations) learn Kubernetes? What should they focus on?
+
+Complete Discussion here - https://youtu.be/6h3ka_qHCrk
 
 Do let us know if you want to see more discussions like these!
 
