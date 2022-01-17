@@ -1,13 +1,8 @@
 # Cloud and DevOps Learning Paths
 
-Do you have questions on how to approach learning Cloud and DevOps?
+Do you have questions on how to approach learning Cloud and DevOps? You should find all your answers here!
 
-You should find all your answers here!
-
-If you have a question, please feel free to raise an issue or comment on a YouTube video.
-
-
-## Week 1 - 15 Jan 2022
+Not find answers to your question - [Raise an issue](https://github.com/in28minutes/learning-paths-cloud-and-devops/issues) or comment on the YouTube video!
 
 | Title  | Status |  GitHub|
 | ------------- | ------------- | ------------- |
