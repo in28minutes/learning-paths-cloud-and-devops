@@ -78,9 +78,13 @@ Here are some of the things we talked about:
 ► Why is Kubernetes popular?
 ► How can professions performing various roles (developer, tester and operations) learn Kubernetes? What should they focus on?
 
-Complete Discussion here - https://youtu.be/6h3ka_qHCrk
+FULL DISCUSSION - https://youtu.be/6h3ka_qHCrk
 
-Do let us know if you want to see more discussions like these!
+COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
+What should the team talk about next? 
+
+Thoughts?
 
 #cloud #devops, #docker, #kubernetes, #in28minutes #iaac #ci #cd #k8s
 ```

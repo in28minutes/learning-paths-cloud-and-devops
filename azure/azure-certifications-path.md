@@ -47,26 +47,29 @@ Azure Certification Path in 2022. Susanth Sutheesh(https://www.linkedin.com/in/s
 ### Social Media Post
 
 ```
-How do I start with Azure?
-
-Which certifications to do?
-
-I've no knowledge of the cloud. How should I get started?
+1: How do I start with Azure?
+2: Which certifications to do?
+3: I've no knowledge of the cloud. How should I get started?
 
 These are some of the questions that a number of beginner reach out to me with.
 
-Azure experts - Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss the most important questions that learners have about Azure Certifications in this video.
+Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) join me in this discussion.
 
 Thanks Susanth, Eshant and Vinay for taking the time to be part of this.
 
 Here are some of the things we talked about:
-USE DISCUSSION POINTS FROM ABOVE!
+TODO - USE DISCUSSION POINTS FROM ABOVE!
 
-We will be creating more videos as we go.
+FULL DISCUSSION - TODO VIDEO LINK
 
-Which Azure topic should the team talk about next? 
+COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
+What should the team talk about next? 
 
 Thoughts?
+
+#azure #certification #paths #cloud #in28minutes
+
 
 ```
 

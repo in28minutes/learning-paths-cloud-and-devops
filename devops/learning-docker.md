@@ -69,7 +69,13 @@ Here are some of the things we talked about:
 ► Why is Docker popular?
 ► How can professions performing various roles (developer, tester and operations) learn docker? What should they focus on?
 
-Do let us know if you want to see more discussions like these!
+FULL DISCUSSION - TODO VIDEO LINK
+
+COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
+What should the team talk about next? 
+
+Thoughts?
 
 #cloud #devops, #docker, #kubernetes, #in28minutes #iaac #ci #cd
 ```
