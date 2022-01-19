@@ -40,6 +40,15 @@ Expert: Ranga Karanam (https://in.linkedin.com/in/rangakaranam)
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
+00:01:19 Why Cloud?
+00:10:35 Which Cloud we should choose to learn (AWS , Azure ,Google ?)
+00:14:15  Comparing different public cloud platforms.
+00:20:08 Are certifications a good way to start AWS journey? Which certifications to start with?
+00:25:53 Cloud misconsumptions
+00:30:58 Will certifications sufficient enough to get a job?
+00:35:12 How to be updated with AWS?
+00:38:07 Closing
+
 ```
 
 ### Social Media Post
@@ -56,7 +65,7 @@ Kapil (https://twitter.com/kkdwivedi13out1) and Ranga Karanam (https://in.linked
 Here are some of the things we talked about:
 TODO - USE DISCUSSION POINTS FROM ABOVE!
 
-FULL DISCUSSION - TODO VIDEO LINK
+FULL DISCUSSION - https://youtu.be/rq8qvAs27rg
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 

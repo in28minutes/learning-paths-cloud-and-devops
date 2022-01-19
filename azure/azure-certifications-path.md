@@ -42,6 +42,14 @@ Azure Certification Path in 2022. Susanth Sutheesh(https://www.linkedin.com/in/s
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
+00:01:27 Why should we start with Azure as preferred cloud to learn?
+00:07:46 Is certifications right way to start learning Azure
+00:22:03 Is Azure Fundamental certification good way to start one’s cloud journey
+00:25:33 What’s the Best Microsoft Azure Certification Path one should follow?
+00:32:00 Once Certifications are chosen right approach to proceed and learn
+00:41:45 Exam strategy? Generic tips and tricks
+00:55:58 Closing
+
 ```
 
 ### Social Media Post
@@ -60,7 +68,7 @@ Thanks Susanth, Eshant and Vinay for taking the time to be part of this.
 Here are some of the things we talked about:
 TODO - USE DISCUSSION POINTS FROM ABOVE!
 
-FULL DISCUSSION - TODO VIDEO LINK
+FULL DISCUSSION - https://youtu.be/n8c3FWkr8jA
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 

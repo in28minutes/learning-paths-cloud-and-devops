@@ -44,6 +44,17 @@ Amit Dave (https://www.linkedin.com/in/amdave/) moderates a discussion with Sath
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
+0:01:28 What is Cloud?
+0:07:17 Why do we need cloud?
+0:15:24 Can I move my on-premises to Cloud
+0:18:14 Why Google Cloud? 
+0:20:15 How hard is for a learner to quickly learn Multi cloud?
+0:22:15 What is the ideal time needed to learn basic services in any cloud?
+00:27:07 Do I need to learn any programming language?
+00:32:09 Can I implement in Cloud using multiple programming languages?
+00:35:12 hat native benefits does Google Cloud have over other Cloud providers
+00:43:07 How to start learning Google Cloud?
+
 ```
 
 ### Social Media Post
@@ -62,7 +73,7 @@ Thanks Sathish, GK and Amit for taking the time to be part of this discussion.
 Here are some of the things we talked about:
 TODO - USE DISCUSSION POINTS FROM ABOVE!
 
-FULL DISCUSSION - TODO VIDEO LINK
+FULL DISCUSSION - https://youtu.be/YJFOhr0Zndk
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
