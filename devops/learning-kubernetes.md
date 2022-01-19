@@ -20,7 +20,7 @@ None
 
 ```
 
-Learning Kubernetes in 2022. Pavan Kumar and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss the important beginner questions about Kubernetes in depth in this video.
+Learning Kubernetes in 2022. Pavan Kumar and Ranga Karanam - https://in.linkedin.com/in/rangakaranam discuss the important beginner questions about Kubernetes in depth in this video.
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► What is Kubernetes?
@@ -58,6 +58,7 @@ https://kubernetes.io/docs/concepts/
 00:30:02 What is a Service?
 00:31:33 Conclusion
 ```
+
 ### Social Media Post
 
 ```
