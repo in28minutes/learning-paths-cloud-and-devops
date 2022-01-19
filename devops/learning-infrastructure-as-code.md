@@ -1,7 +1,7 @@
-##  Learning Infastructure as Code
+##  Learning Infrastructure as Code
 
-- **Title**: Learning Infastructure as Code in 2022
-- **Video File Name**: Learning Infastructure as Code in 2022
+- **Title**: Learning Infrastructure as Code in 2022
+- **Video File Name**: Learning Infrastructure as Code in 2022
 - **Preview Video TimeLines**: 22:25 to 22:58
 
 ### Video Editing Guidelines
@@ -20,19 +20,19 @@ None
 
 
 ```
-How can I learn Infastructure as Code? Which Infastructure as Code tool should I learn? Terraform or Ansible or CloudFormation or AWS CDK ..
+How can I learn Infrastructure as Code? Which Infrastructure as Code tool should I learn? Terraform or Ansible or CloudFormation or AWS CDK ..
 
 These are some of the questions that a number of beginner reach out to me with.
 
 Turja N Chaudhuri (https://in.linkedin.com/in/turjac591) and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
-► What is Infastructure as Code?
-► Why should you learn Infastructure as Code?
-► What are the important Infastructure as Code tools?
+► What is Infrastructure as Code?
+► Why should you learn Infrastructure as Code?
+► What are the important Infrastructure as Code tools?
 ► Why you should learn Terraform in 2022?
 ► Why should you learn Ansible?
-► What are the best practices with Infastructure as Code?
+► What are the best practices with Infrastructure as Code?
 ► Why should you focus on acquiring T-Shaped skills?
 
 ▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
@@ -61,17 +61,11 @@ Turja N Chaudhuri (https://in.linkedin.com/in/turjac591) and Ranga Karanam (http
 ### Social Media Post
 
 ```
-Is DevOps something really new?  
-
-How do I start with DevOps?
-
-There are 100s of DevOps tools. Which one's should I learn?
-
-There is lot of terminology associated with DevOps. How do I learn them?
+How can I learn Infrastructure as Code? Which Infrastructure as Code tool should I learn? Terraform or Ansible or CloudFormation or AWS CDK ..
 
 These are some of the questions that a number of beginner reach out to me with.
 
-Amit Davé (https://www.linkedin.com/in/amdave/) and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
+Turja N Chaudhuri (https://in.linkedin.com/in/turjac591) and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
 
 FULL DISCUSSION - TODO VIDEO LINK
 
