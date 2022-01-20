@@ -26,6 +26,8 @@ These are some of the questions that a number of beginner reach out to me with.
 
 Turja N Chaudhuri (https://in.linkedin.com/in/turjac591) and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► What is Infrastructure as Code?
 ► Why should you learn Infrastructure as Code?

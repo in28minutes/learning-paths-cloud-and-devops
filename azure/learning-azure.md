@@ -23,6 +23,8 @@ Learning Azure in 2022. Take your first step into Azure - https://links.in28minu
 
 Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss Azure beginner questions in depth.
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► Why Cloud?
 ► Which Cloud we should choose to learn (AWS , Azure ,Google ?)

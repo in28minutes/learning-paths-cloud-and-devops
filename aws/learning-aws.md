@@ -24,6 +24,8 @@ Learning AWS in 2022. Take your first step into AWS - https://links.in28minutes.
 Host: Kapil (https://twitter.com/kkdwivedi13out1)
 Expert: Ranga Karanam (https://in.linkedin.com/in/rangakaranam)
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► Why Cloud?
 ► Which Cloud we should choose to learn (AWS , Azure ,Google ?)

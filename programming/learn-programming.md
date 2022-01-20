@@ -25,6 +25,8 @@ How to Learn Programming in 2022?
 Host - Ranga Karanam (https://in.linkedin.com/in/rangakaranam)
 Experts - Koushik Kothagal (https://www.linkedin.com/in/koushikkothagal), Navin Reddy - Telusko (https://in.linkedin.com/in/navinreddy20) and Hitesh Choudary(https://in.linkedin.com/in/hiteshchoudhary)
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► How to learn to program?
 ► What are the things you want to focus on when starting your programming journey?
