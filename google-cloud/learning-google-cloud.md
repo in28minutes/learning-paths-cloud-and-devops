@@ -73,7 +73,7 @@ Thanks Sathish, GK and Amit for taking the time to be part of this discussion.
 Here are some of the things we talked about:
 TODO - USE DISCUSSION POINTS FROM ABOVE!
 
-FULL DISCUSSION - https://youtu.be/YJFOhr0Zndk
+FULL DISCUSSION - https://youtu.be/CPzoyGCAGYs
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 

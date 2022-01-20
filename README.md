@@ -12,7 +12,7 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 | Learning Kubernetes in 2022 | [Video](https://youtu.be/6h3ka_qHCrk) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-kubernetes.md)|
 | Learning Azure in 2022 | [Video](https://youtu.be/c7SJCg87Ywo) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/learning-azure.md)|
 | Azure Certification Path in 2022 | [Video](https://youtu.be/n8c3FWkr8jA) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/azure-certifications-path.md)|
-|Learning Google Cloud in 2022 | [Video](https://youtu.be/YJFOhr0Zndk)|  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/learning-google-cloud.md)|
+|Learning Google Cloud in 2022 | [Video](https://youtu.be/CPzoyGCAGYs)|  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/learning-google-cloud.md)|
 |Learning AWS in 2022| [Video](https://youtu.be/rq8qvAs27rg) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/aws/learning-aws.md)|
 |How to Pass Google Cloud Digital Leader Certification|Recording Next Week||
 |How to Pass AZ-900 Azure Fundamentals Certification|Recording Next Week||
