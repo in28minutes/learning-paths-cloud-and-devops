@@ -18,9 +18,9 @@ None
 ### YouTube Video Description
 
 ```
-Learning Spring Boot in 2022. What roadmap should a Spring Boot developer follow to learn Spring Boot, Docker, Kubernetes and Spring Cloud?
+Learning Spring Boot in 2022. What Roadmap should a Spring Boot developer follow to learn Spring Boot, Docker, Kubernetes and Spring Cloud?
 
-Shabbir (https://www.youtube.com/channel/UC4VZwhJ4T42SVHy9QbZ5rKw) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss Azure beginner questions in depth.
+Shabbir (https://www.youtube.com/channel/UC4VZwhJ4T42SVHy9QbZ5rKw) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss these beginner questions in depth.
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► What's the best approach to learn Spring Boot?
@@ -45,7 +45,7 @@ TODO
 
 How does a Java programmer learn Spring Boot?
 
-What is the simplest roadmap for a Java developer today?
+What is the Simplest ROADMAP for a Java developer today?
 
 Shabbir(https://in.linkedin.com/in/shabbir-dawoodi) and Ranga(https://in.linkedin.com/in/rangakaranam) discuss this in depth in this video.
 
@@ -58,6 +58,12 @@ Here are some of the things we talked about:
 ► When should you learn the cloud?
 
 Here's the complete video: TODO
+
+COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
+What should the team talk about next? 
+
+Thoughts?
 
 #programming #springboot #in28minutes
 ```

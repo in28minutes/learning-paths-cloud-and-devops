@@ -14,8 +14,10 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 | Azure Certification Path in 2022 | [Video](https://youtu.be/n8c3FWkr8jA) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/azure-certifications-path.md)|
 |Learning Google Cloud in 2022 | [Video](https://youtu.be/CPzoyGCAGYs)|  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/learning-google-cloud.md)|
 |Learning AWS in 2022| [Video](https://youtu.be/rq8qvAs27rg) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/aws/learning-aws.md)|
-|How to Pass Google Cloud Digital Leader Certification|Recording Next Week||
-|How to Pass AZ-900 Azure Fundamentals Certification|Recording Next Week||
-|SDLC - Our Experiences with Agile and (DevOps??) |Recording Next Week||
+|Learning Spring Boot in 2022|Video Editing [Target - 22nd Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/spring-boot/learning-spring-boot.md)|
+|SDLC - Waterfall to Agile to (DevOps??) |Recording on 21st Jan[Target - 23rd Jan]||
+|Learning Infrastructure as Code in 2022|Video Editing [Target - 26th Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-infrastructure-as-code.md)|
+|How to Pass Google Cloud Digital Leader Certification|Recording on 21st Jan[Target - 27th Jan]||
+|Learning Cloud in 2022|Recording on 21st Jan[Target - 28th Jan]||
 |Learning Road Maps of in28minutes|Recording Next Week||
-|Learning Cloud in 2022|Recording Next Week||
+|How to Pass AZ-900 Azure Fundamentals Certification|Recording Feb 5th||
