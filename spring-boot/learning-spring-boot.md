@@ -38,19 +38,13 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ► Course - Spring Microservices : https://links.in28minutes.com/MISC-MICROSERVICES
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-00:01:43 What are the important things to learn when someone is starting with Spring Boot?
-00:05:11
-00:10:19
-00:11:42
-00:15:13
-00:17:34
-00:21:55
-00:23:56
-00:28:21
-00:30:48
-00:34:02
-00:36:34
-00:39:26
+00:01:43 What's the best approach to learn Spring Boot?
+00:05:11 Why should you learn to Build APIs?
+00:11:42 How can you learn microservices?
+00:18:11 Why should you learn Docker and Kubernetes? 
+00:22:02 Importance of learning Spring Cloud
+00:23:56 When should you learn JPA, Databases and others?
+00:28:23 When should you learn the cloud?
 
 ```
 
