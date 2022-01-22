@@ -14,7 +14,7 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 | Azure Certification Path in 2022 | [Video](https://youtu.be/n8c3FWkr8jA) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/azure-certifications-path.md)|
 |Learning Google Cloud in 2022 | [Video](https://youtu.be/CPzoyGCAGYs)|  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/learning-google-cloud.md)|
 |Learning AWS in 2022| [Video](https://youtu.be/rq8qvAs27rg) |  [Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/aws/learning-aws.md)|
-|Learning Spring Boot in 2022|Video Editing [Target - 22nd Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/spring-boot/learning-spring-boot.md)|
+|Learning Spring Boot in 2022| [Video](https://youtu.be/YNEUMmtO_6k) |[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/spring-boot/learning-spring-boot.md)|
 |SDLC - Waterfall to Agile to (DevOps??) |Video Editing [Target - 23rd Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/sdlc-agile.md)|
 |Learning Infrastructure as Code in 2022|Video Editing [Target - 27th Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-infrastructure-as-code.md)|
 |Learning Cloud in 2022|Recording on 21st Jan[Target - 28th Jan]||
