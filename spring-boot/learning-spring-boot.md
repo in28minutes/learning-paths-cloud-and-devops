@@ -38,7 +38,7 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ► Course - Spring Microservices : https://links.in28minutes.com/MISC-MICROSERVICES
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-00:01:43
+00:01:43 What are the important things to learn when someone is starting with Spring Boot?
 00:05:11
 00:10:19
 00:11:42
