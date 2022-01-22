@@ -22,6 +22,8 @@ Learning Spring Boot in 2022. What Roadmap should a Spring Boot developer follow
 
 Shabbir (https://www.youtube.com/channel/UC4VZwhJ4T42SVHy9QbZ5rKw) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss these beginner questions in depth.
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► What's the best approach to learn Spring Boot?
 ► Why should you learn to Build APIs?

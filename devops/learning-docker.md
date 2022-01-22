@@ -20,6 +20,8 @@ None
 ```
 Learning Docker in 2022. Pavan Kumar and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss the important beginner questions about Docker in depth in this video.
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► What is Docker?
 ► Why do we need Docker?

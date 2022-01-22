@@ -28,6 +28,8 @@ Three Key Elements:
 ```
 How can I learn DevOps?
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 There are 100s of DevOps tools. Which one's should I learn?
 
 There is lot of terminology associated with DevOps. How do I learn them?

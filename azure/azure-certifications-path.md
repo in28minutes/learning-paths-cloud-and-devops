@@ -24,6 +24,8 @@ None
 ```
 Azure Certification Path in 2022. Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss the most important questions that learners have about Azure Certifications.
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► Why should we start with Azure as preferred cloud to learn?
 ► Is certifications right way to start learning Azure

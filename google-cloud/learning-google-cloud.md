@@ -23,6 +23,8 @@ Learning Google Cloud in 2022.
 
 Amit Dave (https://www.linkedin.com/in/amdave/) moderates a discussion with Sathish VJ(https://www.linkedin.com/in/sathishvj/), GK - Cloud Advocate(https://www.linkedin.com/in/chaitanya-gk/) and Ranga Karanam(https://www.linkedin.com/in/rangakaranam).
 
+ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
+
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► What is Cloud?
 ► Why do we need cloud?
