@@ -36,7 +36,20 @@ Shabbir (https://www.youtube.com/channel/UC4VZwhJ4T42SVHy9QbZ5rKw) and Ranga Kar
 ► Course - Spring Microservices : https://links.in28minutes.com/MISC-MICROSERVICES
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-TODO
+00:01:43
+00:05:11
+00:10:19
+00:11:42
+00:15:13
+00:17:34
+00:21:55
+00:23:56
+00:28:21
+00:30:48
+00:34:02
+00:36:34
+00:39:26
+
 ```
 
 ### Social Media Post
@@ -57,7 +70,7 @@ Here are some of the things we talked about:
 ► When should you learn JPA, Databases and others?
 ► When should you learn the cloud?
 
-Here's the complete video: TODO
+Here's the complete video: https://youtu.be/YNEUMmtO_6k
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
