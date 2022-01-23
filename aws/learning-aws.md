@@ -42,6 +42,7 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
+00:00:00 Introduction
 00:01:19 Why Cloud?
 00:10:35 Which Cloud we should choose to learn (AWS , Azure ,Google ?)
 00:14:15 Comparing different public cloud platforms.
