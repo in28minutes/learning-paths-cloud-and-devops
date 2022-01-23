@@ -26,21 +26,19 @@ Learning Microservices in 2022.
 ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
-► What is Microservices?
-► How can I get started in learning Microservices?
+► What is a Microservice?
+► How can I get started with learning Microservices?
 ► Evolution of Microservices and why they became more popular over Web Services? 
 ► Challenges which Microservices helps us to overcome
-► Microservices Architecture?
 ► Things to consider when developing Microservices
 ► Programming languages used to develop Microservices
 ► How to deploying Microservices in cloud using Docker, Kubernetes,...
-► Where should a beginer with no programming knowledge get started 
+► Where should a beginner with no programming knowledge get started 
 ► How important is it to understand cloud in order to develop Microservices
 
 ▬▬▬▬▬▬ Learning Resources 🔗 ▬▬▬▬▬▬ 
 
-► 
-► 
+► Get started with Microservices - https://links.in28minutes.com/get-started-microservices
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
@@ -51,9 +49,9 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ### Social Media Post
 
 ```
-1: What is Microservices?
-2: Tools and technologies to use for developing Microservices?
-3: How should I get started to implement Microservices?
+1: What is a Microservice?
+2: What is the role Spring Cloud, Docker, Kubernetes play in Microservices architectures?
+3: How can I get started with implementing Microservices?
 
 These are some of the questions that a number of beginner reach out to me with.
 
@@ -62,13 +60,19 @@ Amit Dave (https://www.linkedin.com/in/amdave/) joins me in this discussion.
 Thanks Amit for taking the time to be part of this discussion.
 
 Here are some of the things we talked about:
-TODO - USE DISCUSSION POINTS FROM ABOVE!
+► Evolution of Microservices and why they became more popular over Web Services? 
+► Challenges which Microservices helps us to overcome
+► Things to consider when developing Microservices
+► Programming languages used to develop Microservices
+► How to deploying Microservices in cloud using Docker, Kubernetes,...
+► Where should a beginner with no programming knowledge get started 
+► How important is it to understand cloud in order to develop Microservices
 
-FULL DISCUSSION - 
+FULL DISCUSSION - TODO
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
-What should the team talk about next? 
+What is the most important takeaway for you from this discussion?
 
 Thoughts?
 
