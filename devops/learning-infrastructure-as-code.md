@@ -8,6 +8,19 @@
 
 - 43 - 45 minutes - please edit carefully. There are places you might want to cut out the interruptions.
 
+TOC for start of video
+- Infrastructure as Code
+	- What?
+	- Advantages
+	- Best Practices
+	- Terraform
+	- Ansible
+	- Pulumi
+- Container First
+	- Docker
+	- Kubernetes
+
+
 ### Image Overlays
 
 None
