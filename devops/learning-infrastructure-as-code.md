@@ -56,7 +56,14 @@ s► Video - Terraform 101 - https://www.youtube.com/watch?v=aK-Qu_w5ch0
 ► Course - Master DevOps  - https://links.in28minutes.com/DevOps-SBT
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-TODO
+00:00:00 
+00:00:51 What is Infrastructure as Code?
+00:12:34 Why should you learn Infrastructure as Code?
+00:15:08 What are the important Infrastructure as Code tools?
+00:27:36 Why you should learn Terraform in 2022? 
+00:28:33 Why should you learn Ansible?
+00:35:42 What are the best practices with Infrastructure as Code?
+00:48:45 Closing
 ```
 
 
@@ -69,7 +76,7 @@ These are some of the questions that a number of beginner reach out to me with.
 
 Turja N Chaudhuri (https://in.linkedin.com/in/turjac591) and Ranga Karanam (https://in.linkedin.com/in/rangakaranam) discuss these questions in depth in this video.
 
-FULL DISCUSSION - TODO VIDEO LINK
+FULL DISCUSSION - https://youtu.be/d_FFwManbuU
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
