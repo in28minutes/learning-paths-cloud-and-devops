@@ -56,7 +56,7 @@ s► Video - Terraform 101 - https://www.youtube.com/watch?v=aK-Qu_w5ch0
 ► Course - Master DevOps  - https://links.in28minutes.com/DevOps-SBT
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-00:00:00 
+00:00:00 Introduction
 00:00:51 What is Infrastructure as Code?
 00:12:34 Why should you learn Infrastructure as Code?
 00:15:08 What are the important Infrastructure as Code tools?
