@@ -17,7 +17,7 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Learning Spring Boot in 2022| [Video](https://youtu.be/YNEUMmtO_6k) |[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/spring-boot/learning-spring-boot.md)|
 |SDLC - Waterfall to Agile to DevOps | [Video](https://youtu.be/hnk006-Vw9g) |[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/sdlc-agile.md)|
 |Learning Infrastructure as Code in 2022|[Video](https://youtu.be/d_FFwManbuU)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-infrastructure-as-code.md)|
-|Learning Microservices in 2022|Video Editing [Target - 28th Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architectures/learning-microservices.md)|
+|Learning Microservices in 2022|[Video](https://youtu.be/6f6zHWgM4WE)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architectures/learning-microservices.md)|
 |How to Pass Google Cloud Digital Leader Certification|Recording postponed to 28st Jan[Target - Todo]||
 |How to Pass AZ-900 Azure Fundamentals Certification|Recording Feb 1st||
 |Learning Cloud in 2022|TODO||
