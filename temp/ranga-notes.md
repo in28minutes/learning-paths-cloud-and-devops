@@ -1,5 +1,8 @@
 ## My Scripts
 
+In the last week, we released a series of 10 videos on AWS, Azure, Google Cloud and DevOps. We did a little more research and came up with a list of 20 frequently asked questions from learners about learning cloud and devops. Balaji has started his cloud journey in the last 2 years. I and Balaji would share our experience learning cloud and devops. Let's get started.
+
+
 ## 
 
 Learning AWS, Learning Azure, Learning Google Cloud is much easier than learning programming. Learning Docker, Learning Kubernetes, Learning Terraform is much easier than learning to write great unit test, learning to simplify design and architectures.
