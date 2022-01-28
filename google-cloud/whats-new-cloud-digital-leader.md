@@ -10,7 +10,15 @@
 	- Please use a screenshot from video
 		- Left bottom box: Google Cloud Digital Leader
 		- Right bottom box: What's New
-
+- Video Title: Google Cloud Digital Leader: What's New
+- TOC
+	- Google Cloud Digital Leader
+		- Who?
+		- Why?
+		- When?
+		- What?
+		- What's New!
+		- Tips and Tricks
 ### Image Overlays
 
 None

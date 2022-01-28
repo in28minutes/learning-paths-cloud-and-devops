@@ -10,6 +10,7 @@
 	- Please use a screenshot from the video:
 		- Left Side Bottom Empty Box: How to Learn?
 		- Right Side Bottom Empty Box: 80-20 Rule, T-shaped skills, Continous Learning, Reskilling
+- Video Title: How to Learn Continuously and Reskill?
 - TOC
 	- How to Learn?
 	- How to pick what to learn?
