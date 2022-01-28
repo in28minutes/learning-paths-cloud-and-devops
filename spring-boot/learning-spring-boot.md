@@ -38,6 +38,8 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ► Course - Spring Microservices : https://links.in28minutes.com/MISC-MICROSERVICES
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
+
+00:00:00 Introduction
 00:01:43 What's the best approach to learn Spring Boot?
 00:05:11 Why should you learn to Build APIs?
 00:11:42 How can you learn microservices?

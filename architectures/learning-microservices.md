@@ -52,7 +52,16 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ► Get started with Microservices - https://links.in28minutes.com/get-started-microservices
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-
+00:00:00 Introduction
+00:01:09 What is a Microservice?
+00:06:35 Key Advantages of Microservices
+00:11:27 Challenges which Microservices helps us to overcome
+00:16:04 Microservice - Solutions
+00:26:07 How to deploying Microservices in cloud using Docker, Kubernetes
+00:29:34 Importance of understanding Cloud in order to develop Microservices
+00:33:42 Prerequisite for a beginner to get started with Microservices
+00:36:34 Where should a beginner with no programming knowledge get started
+00:38:53 Closing
 
 
 ```
@@ -79,7 +88,7 @@ Here are some of the things we talked about:
 ► Where should a beginner with no programming knowledge get started 
 ► How important is it to understand cloud in order to develop Microservices
 
-FULL DISCUSSION - TODO
+FULL DISCUSSION - https://youtu.be/6f6zHWgM4WE
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 

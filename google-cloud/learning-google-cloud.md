@@ -46,6 +46,7 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
+00:00:00 Introduction
 00:01:28 What is Cloud?
 00:07:17 Why do we need cloud?
 00:15:24 Can I move my on-premises to Cloud?

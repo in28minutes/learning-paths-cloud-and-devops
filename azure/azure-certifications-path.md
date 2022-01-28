@@ -44,6 +44,7 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
+00:00:00 Introduction
 00:01:27 Why should we start with Azure as preferred cloud to learn?
 00:07:46 Is certifications right way to start learning Azure
 00:22:03 Is Azure Fundamental certification good way to start one’s cloud journey

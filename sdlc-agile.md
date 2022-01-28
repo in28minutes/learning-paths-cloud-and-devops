@@ -41,7 +41,14 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 - None
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
-TODO
+00:00:00 Introduction
+00:01:50 Overview of waterfall - experiences
+00:09:17 Overview of agile - changes, advantages, practices etc.
+00:18:04 Experiences related to Agile Manifesto
+00:25:45 Experiences related to Agile Priciples
+00:37:35 Agile vs Scrum 
+00:54:34 What's next after Agile? DevOps? Overview of DevOps
+00:58:47 Closing
 
 #waterfall #agile #devops #sdlc #koushik #siva #javabrains #sivalabs #in28minutes
 ```
@@ -75,7 +82,7 @@ And that's what we talk about in this video!
 
 
 ▬▬▬▬▬▬   💎  Complete Video 💎  ▬▬▬▬▬▬ 
-Complete Video - TODO
+Complete Video - https://youtu.be/hnk006-Vw9g
 
 #agile #devops #sdlc 
 ```
