@@ -1,6 +1,6 @@
 ##  Google Cloud Digital Leader
 
-- **Title**: What's new with the Google Cloud Digital Leader
+- **Title**: What's new in the Google Cloud Digital Leader Certification
 - **Video File Name**: Pass the Google Cloud Digital Leader Certification
 - **Preview Video TimeLines**: NOT NEEDED
 
