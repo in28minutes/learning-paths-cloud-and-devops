@@ -9,8 +9,9 @@
 - 43 - 45 minutes - please edit carefully. There are places you might want to cut out the interruptions.
 
 TOC for start of video
+
 - Infrastructure as Code
-	- What?
+	- What? Why? When?
 	- Advantages
 	- Best Practices
 	- Terraform
