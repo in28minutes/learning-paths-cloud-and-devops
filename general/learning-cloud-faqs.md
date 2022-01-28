@@ -16,12 +16,13 @@ Host -
 Expert - 
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
-► 1. What is Cloud?
+► What is Cloud?
 ► Why is cloud so popular?
 ► How to start career in Cloud? When it comes to college students what is the right time that they can get started in learning Cloud
 ► Differences between AWS vs Azure vs GCP
 ► What are the pre-requisites to learn Cloud? 
-► Do freshers get Cloud jobs or is it only for experienced professionals? I’m an experienced professional and I’m looking switch to Cloud, is it possible to do so?
+► Do freshers get Cloud jobs or is it only for experienced professionals? 
+► I’m an experienced professional and I’m looking switch to Cloud, is it possible to do so?
 ► I have a career gap, can I learn Cloud and get a job ?
 ► What are cloud certifications available?
 ► How much time will take to prepare for a certification?
