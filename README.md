@@ -20,6 +20,7 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Learning Microservices in 2022|[Video](https://youtu.be/6f6zHWgM4WE)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architectures/learning-microservices.md)|
 |Whats new with Google Cloud Digital Leader Certification|Video Editing [Target - 30th Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/whats-new-cloud-digital-leader.md)|
 |How to Learn Continuously and Reskill|Video Editing [Target - 29th Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-continuously-learn.md)|
+|How to Learn Cloud in 2022 | 20 FAQs |Video Editing [Target - Feb 3rd]|[Github](hhttps://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/learning-cloud-faqs.md)|
 |How to Pass AZ-900 Azure Fundamentals Certification|Recording Feb 1st||
 |Learning Cloud in 2022|TODO||
 |Learning Road Maps of in28minutes|Recording Next Week||
