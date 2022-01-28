@@ -30,9 +30,9 @@ None
 ### YouTube Video Description
 
 ```
-What's new with the Google Cloud Digital Leader.
+What's new in the Google Cloud Digital Leader Certification.
 
-Amit Dave (https://www.linkedin.com/in/amdave/) moderates a discussion with Sathish VJ(https://www.linkedin.com/in/sathishvj/) and Ranga Karanam(https://www.linkedin.com/in/rangakaranam).
+[Amit Dave](https://www.linkedin.com/in/amdave/) moderates a discussion with [Sathish VJ](https://www.linkedin.com/in/sathishvj/) and [Ranga Karanam](https://www.linkedin.com/in/rangakaranam) 
 
 ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
@@ -55,6 +55,7 @@ Migration Guide Google Cloud - https://services.google.com/fh/files/misc/cio_gui
 ► Coursera - https://www.coursera.org/googlecloud
 ► Register for certification exam - https://webassessor.com/googlecloud
 ► Certification exam breakdown - https://cloud.google.com/blog/topics/developers-practitioners/how-become-certified-cloud-professional
+► Sample Practice test - https://docs.google.com/forms/d/e/1FAIpQLSedAmf77MGS7FGEaylFzY51KtBd7kkIZJIMDsV5zSRSmpKIOA/viewform
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
