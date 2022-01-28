@@ -49,13 +49,13 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ► Sathish VJ - Github - https://github.com/sathishvj/awesome-gcp-certifications
 ► GK on YouTube - Cloud Advocate - https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ
 ► in28minutes Google Cloud Course - https://links.in28minutes.com/get-started-google-cloud
-► Application
-Migration Guide Google Cloud - https://services.google.com/fh/files/misc/cio_guide_to_application_migraton.pdf
+► Application Migration Guide Google Cloud - https://services.google.com/fh/files/misc/cio_guide_to_application_migraton.pdf
 ► Learning paths - https://cloud.google.com/training#learning-paths
 ► Coursera - https://www.coursera.org/googlecloud
 ► Register for certification exam - https://webassessor.com/googlecloud
 ► Certification exam breakdown - https://cloud.google.com/blog/topics/developers-practitioners/how-become-certified-cloud-professional
 ► Sample Practice test - https://docs.google.com/forms/d/e/1FAIpQLSedAmf77MGS7FGEaylFzY51KtBd7kkIZJIMDsV5zSRSmpKIOA/viewform
+► Google Cloud Tech Videos - https://www.youtube.com/user/googlecloudplatform
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
