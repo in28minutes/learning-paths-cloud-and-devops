@@ -56,6 +56,7 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ► Certification exam breakdown - https://cloud.google.com/blog/topics/developers-practitioners/how-become-certified-cloud-professional
 ► Sample Practice test - https://docs.google.com/forms/d/e/1FAIpQLSedAmf77MGS7FGEaylFzY51KtBd7kkIZJIMDsV5zSRSmpKIOA/viewform
 ► Google Cloud Tech Videos - https://www.youtube.com/user/googlecloudplatform
+► Google Cloud Blogs - https://cloud.google.com/blog/
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
