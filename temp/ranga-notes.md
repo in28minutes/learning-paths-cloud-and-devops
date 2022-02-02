@@ -77,3 +77,22 @@ Let's get started.
 
 Delighted to have you here Amit!
 
+
+
+
+## Moving Microservices from VMs to Kubernetes
+
+1. Moving Microservices from VMs to Kubernetes - Why?
+2. Why Containers?
+3. Why Container Orchestration?
+4. What are the advantages of Kubernetes?
+5. What do you think important concepts of Kubernetes?
+6. CI/CD for Kubernetes
+7. IaC for Kubernetes
+8. Monitoring Kubernetes cluster 
+9. Kubernetes - Best Practices
+Kubernetes - Advantages
+
+
+
+
