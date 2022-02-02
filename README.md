@@ -18,9 +18,9 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |SDLC - Waterfall to Agile to DevOps | [Video](https://youtu.be/hnk006-Vw9g) |[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/sdlc-agile.md)|
 |Learning Infrastructure as Code in 2022|[Video](https://youtu.be/d_FFwManbuU)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/learning-infrastructure-as-code.md)|
 |Learning Microservices in 2022|[Video](https://youtu.be/6f6zHWgM4WE)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architectures/learning-microservices.md)|
-|Whats new with Google Cloud Digital Leader Certification|Video Editing [Target - 30th Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/whats-new-cloud-digital-leader.md)|
-|How to Learn Continuously and Reskill|Video Editing [Target - 29th Jan]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-continuously-learn.md)|
-|How to Learn Cloud in 2022 - 20 FAQs |Video Editing [Target - Feb 3rd]|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/learning-cloud-faqs.md)|
+|Whats new with Google Cloud Digital Leader Certification|[Video](https://youtu.be/I0JGpyBk_7w)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/whats-new-cloud-digital-leader.md)|
+|How to Learn Continuously and Reskill|[Video](https://youtu.be/DvkMj1ArOKY)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-continuously-learn.md)|
+|How to Learn Cloud in 2022 - 20 FAQs |[Video](https://youtu.be/WSjaBnOWQ40)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/learning-cloud-faqs.md)|
 |How to Pass AZ-900 Azure Fundamentals Certification|Recording Feb 1st||
 |Learning Cloud in 2022|TODO||
 |Learning Road Maps of in28minutes|Recording Next Week||

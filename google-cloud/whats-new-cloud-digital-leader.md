@@ -32,7 +32,7 @@ None
 ```
 What's new in the Google Cloud Digital Leader Certification.
 
-[Amit Dave](https://www.linkedin.com/in/amdave/) moderates a discussion with [Sathish VJ](https://www.linkedin.com/in/sathishvj/) and [Ranga Karanam](https://www.linkedin.com/in/rangakaranam) 
+Amit Dave(https://www.linkedin.com/in/amdave/) moderates a discussion with Sathish VJ(https://www.linkedin.com/in/sathishvj/) and Ranga Karanam(https://www.linkedin.com/in/rangakaranam) 
 
 ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
@@ -61,7 +61,13 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
 00:00:00 Introduction
-
+00:01:16 Who should do the CDL Certification ?
+00:07:22 Why should someone learn CDL in 2022 ?
+00:12:00 What are the learning areas of CDL ? 
+00:24:59 Whats new for CDL in 2022 ?
+00:28:33 How to prepare for CDL ? 
+00:37:13 Tips and Tricks ?
+00:51:13 Closing
 ```
 
 ### Social Media Post
@@ -84,7 +90,7 @@ Thanks Sathish and Amit for taking the time to be part of this discussion.
 Here are some of the things we talked about:
 TODO - USE DISCUSSION POINTS FROM ABOVE!
 
-FULL DISCUSSION - TODO
+FULL DISCUSSION - https://youtu.be/I0JGpyBk_7w
 
 COMPLETE SERIES - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 

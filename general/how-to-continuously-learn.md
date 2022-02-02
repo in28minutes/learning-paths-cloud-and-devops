@@ -47,6 +47,15 @@ Other videos in this series - https://github.com/in28minutes/learning-paths-clou
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:01:02 How do you keep with the change in technology?
+00:03:02 How do you continuously learn?
+00:09:36 What is your learning approach?
+00:20:01 YAML vs Programming Language
+00:39:45 How do choose when to go hands-on with learning technology?
+00:46:46 Process of Learning
+00:53:31 Importance of Learn and Unlearn in technology world
+01:02:33 How can someone make a transition from Spring Boot to Cloud?
+01:11:49 Closing
 
 ```
 
@@ -65,7 +74,7 @@ My Three (actually four) Takeaways:
 
 What are your takeaways?
 
-Here's the complete conversation - TODO
+Here's the complete conversation - https://youtu.be/DvkMj1ArOKY
 
 #learning #career #technology #people  #java
 ```
