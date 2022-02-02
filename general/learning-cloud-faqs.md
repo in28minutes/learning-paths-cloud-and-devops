@@ -51,8 +51,6 @@ Balaji and Ranga discuss the 20 most popular FAQs on the cloud.
 
 #cloud #aws #azure #gcp #learning #devops
 
-▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
-None
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
