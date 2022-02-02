@@ -11,7 +11,7 @@
 - 37:13 - 37:17
 
 ### Image Overlays
-
+18:00 - 18:05
 20:44 - Image (Edit : https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/AZ900-Skillrequirement.PNG)
 
 ### Text Overlays
@@ -21,14 +21,15 @@ None
 ### Video Description
 
 ```
-Azure Certification Path in 2022. Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss the most important questions that learners have about Azure Certifications.
+Az-900 , Azure Fundamental . Susanth Sutheesh(https://www.linkedin.com/in/susanthsutheesh/), Eshant Garg(https://www.linkedin.com/in/eshantgarg/), Vinay Nair(https://www.linkedin.com/in/vinay-nair-278892145/) and Ranga Karanam(https://in.linkedin.com/in/rangakaranam) discuss the most important questions that learners have about Azure Certifications.
 
 ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-devops#cloud-and-devops-learning-paths
 
 ▬▬▬▬▬▬   💎  Discussion points 💎  ▬▬▬▬▬▬ 
 ► Is AZ-900 , Azure Fundamental certification right way to start cloud journey.
 ► Who should do the AZ-900 Certification - is it only for Technical guys or Management or both , how quickly this certification can be achived
-► How to Start preparing for AZ-900 - First Step
+► How to Start preparing for AZ-900 , Exam Objectives - First Step
+► How to study new concepts that cloud Introduces and be exam ready.
 ► Exam - Tips and Tricks
 
 ▬▬▬▬▬▬ Learning Resources 🔗▬▬▬▬▬▬ 
@@ -45,7 +46,11 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 
 00:00:00 Introduction
 00:00:58 Is AZ-900 right approach to start learning cloud?
-00:06:32 Learning Path one should follow for AZ-900 certification
+00:06:32 Learning Areas of AZ-900 , Skills that you will be tested on in Exams.
+00:25:00 Learning Path one should follow for AZ-900 certification
+00:33:37 How to learn new concepts in Azure and be exam ready.
+00:37:27 Tips and Tricks for Exam.
+00:43:25 Closing
 
 ```
 
@@ -55,6 +60,7 @@ ALL LEARNING PATHS - https://github.com/in28minutes/learning-paths-cloud-and-dev
 1: Is Azure Fundamental right way to start cloud journey 
 2: How to start preparing for AZ-900 , Azure Fundamental Certification
 3: Who should do AZ-900 certification?
+4: How to study new concepts that cloud Introduces and be exam ready.
 
 These are some of the questions that a number of beginner reach out to me with.
 
