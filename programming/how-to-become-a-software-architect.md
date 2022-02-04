@@ -63,6 +63,8 @@ Koushik (https://javabrains.io/), Siva (https://www.sivalabs.in/) and Ranga disc
 
 Watch here - 
 
+Earlier discussions - Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6uMCQik02JO_68gqwZbqCrxdRZ
+
 #learning #career #technology #people #java
 ```
 
