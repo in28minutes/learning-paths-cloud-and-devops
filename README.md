@@ -23,4 +23,5 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |How to Learn Cloud in 2022 - 20 FAQs |[Video](https://youtu.be/WSjaBnOWQ40)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/learning-cloud-faqs.md)|
 |Pass AZ-900 Azure Fundamentals Certification|[Video](https://youtu.be/yFJjQMjP2eI)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/AZ-900.md)|
 |DevOps Roadmap|Target - 7 Feb Monday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/devops-roadmap.md)|
+|How to Become a Software Architect|Target - 5 FEB Saturday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/programming/how-to-become-a-software-architect.md)|
 |Learning Road Maps of in28minutes|Recording Next Week||
