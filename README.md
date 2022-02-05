@@ -24,4 +24,5 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Pass AZ-900 Azure Fundamentals Certification|[Video](https://youtu.be/yFJjQMjP2eI)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/AZ-900.md)|
 |DevOps Roadmap|Target - 7 Feb Monday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/devops-roadmap.md)|
 |How to Become a Software Architect|Target - 5 FEB Saturday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/programming/how-to-become-a-software-architect.md)|
+|Pass the Google Cloud Associate Cloud Engineer Certification |Target - 6 FEB Sunday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/ace-certiification.md)|
 |Learning Road Maps of in28minutes|Recording Next Week||
