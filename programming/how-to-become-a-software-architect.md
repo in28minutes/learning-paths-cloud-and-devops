@@ -37,6 +37,8 @@ None
 ### YouTube Video Description
 
 ```
+
+Entire Series of Videos - https://www.youtube.com/playlist?list=PLBBog2r6uMCS0FX6Ym_8NYeTNykUF5970
 Koushik (https://javabrains.io/), Siva (https://www.sivalabs.in/) and Ranga discuss how to become a software architect.
 
 Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6uMCQik02JO_68gqwZbqCrxdRZ
@@ -52,6 +54,11 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:01:08 What is the role of an Software Architect?
+00:07:26 What are the things that beginners should follow to become an Software Architect?
+00:16:05 What are the things that someone can do to improve their business knowledge and communication skills?
+00:22:20 How can someone stay updated with the trends in IT industry?
+00:57:09 Closing
 
 #learning #career #technology #people #java #architect #javabrains #in28minutes
 ```
@@ -61,7 +68,7 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 ```
 Koushik (https://javabrains.io/), Siva (https://www.sivalabs.in/) and Ranga discuss how to become a software architect.
 
-Watch here - 
+Watch here - https://youtu.be/tA447bc9Q8c
 
 Earlier discussions - Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6uMCQik02JO_68gqwZbqCrxdRZ
 
