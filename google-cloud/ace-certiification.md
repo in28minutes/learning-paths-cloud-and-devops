@@ -19,7 +19,7 @@
 		- What?
 		- What's New!
 		- Tips and Tricks
-
+ - Editing: When Amit is speaking, there is a sound from his laptop fan which could be constantly heard in the background. Please see if there is a way to minimise it and mute Amit's audio when he is not speaking. 
 ### Image Overlays
 
 None
