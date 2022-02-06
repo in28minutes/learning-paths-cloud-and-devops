@@ -1,12 +1,27 @@
-##  Learning Cloud in 2022 | 20 FAQs
+## Full Stack Developer
 
-- **Video File Name**: How to become Full Stack Developer in 2022
+- **Video File Name**: How to become a Full Stack Developer
 - **Preview Video TimeLines**: NOT NEEDED
 
 ### Video Editing Guidelines
-- Title:  | 
+- Title: Full Stack Developer Roadmap | Simplified
+- Thumbnail 
+	- Please use a screenshot from video
+		- Left bottom box: Full Stack Developer
+		- Right bottom box: 
+			- Backend (Java/Python/NodeJS/Python)
+			- Frontend (Angular/React/VueJS)
+			- Cloud??
+			- DevOps??
 - TOC:
-	- 
+	- Full Stack Developer Roadmap
+		- What?
+		- Why?
+		- How?
+		- Backend (Java/Python/NodeJS/Python)
+		- Frontend (Angular/React/VueJS)
+		- Cloud??
+		- DevOps??
 
 ### Image Overlays
 None
@@ -52,14 +67,8 @@ Ranga, Pavan and Sri Balaji discuss on how to become full stack developer in 202
 ### Social Media Post
 
 ```
-What is a full stack and who is called a full stack developer? How can one get started to become a full stack developer?
-
-Ranga, Pavan and Sri Balaji discuss on how to become full stack developer in 2022.
-
+Full Stack Developer Roadmap | Simplified
 Here's the complete conversation - 
-
-
-
 ```
 
 ### Script

@@ -92,7 +92,3 @@ Delighted to have you here Amit!
 8. Monitoring Kubernetes cluster 
 9. Kubernetes - Best Practices
 Kubernetes - Advantages
-
-
-
-
