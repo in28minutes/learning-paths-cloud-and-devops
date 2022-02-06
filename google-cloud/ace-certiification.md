@@ -59,6 +59,12 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
 00:00:00 Introduction
+00:00:28 Who should do the Associate Cloud Engineer Certification ?
+00:07:28 What are the learning areas of Associate Cloud Engineer ?
+00:17:29 How to prepare for Associate Cloud Engineer ? 
+00:32:10 What is the exam format and passing marks ?
+00:49:08 Tips and Tricks ?
+00:59:34 Closing
 
 #ace #cloud-certifications #cloud #gcp #googlecloud #in28minutes
 
@@ -69,7 +75,7 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 ```
 Sathish VJ - AwesomeGCP(https://www.linkedin.com/in/sathishvj/), GK - Cloud Advocate(https://www.youtube.com/c/CloudAdvocate), Amit Dave(https://www.linkedin.com/in/amdave/) and Ranga Karanam(https://www.linkedin.com/in/rangakaranam) discuss the Google Cloud Associate Cloud Engineer Certification
 
-VIDEO - https://youtu.be/I0JGpyBk_7w
+VIDEO - https://youtu.be/7RW6JvkvYwA
 
 COMPLETE SERIES - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6uMCQik02JO_68gqwZbqCrxdRZ
 
