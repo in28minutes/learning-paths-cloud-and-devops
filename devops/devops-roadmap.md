@@ -44,7 +44,11 @@ Vikram (https://www.youtube.com/c/DevOpsMadeEasy) and Ranga Karanam discuss the 
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
-
+00:06:25 When to begin Kubernetes?  
+00:08:33 What would be the steps that someone should take to start learning DevOps?
+00:11:35 Importance of starting with Cloud when learning DevOps.
+00:14:54 Container orchestration tools
+00:22:27 Closing
 ```
 
 
