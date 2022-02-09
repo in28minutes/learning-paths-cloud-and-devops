@@ -23,17 +23,13 @@
 
 ## WHAT
 
-- Steps
+- FIRST STEPS
   - Use static analysis tools - SONAR
     - components & their sizes & interactions with other components
     - Hotspots: Large Classes, Complex methods, Large Components, Lot of dependencies, Uncovered Code
   - Review Junits for  complex methods/classes
   - Check Readability of code
     - Most important of 4 principles of Simple Design
-  - Check everything mentioned in what?
-
-## What?
-
 - Architecture
   - frameworks choice
   - communication with other sytems
@@ -48,55 +44,20 @@
     - Coupling
     - Cohesion
   - Layer Responsibilities
-    - Web Layer
-  -   - Business logic creeping in?
-    - Assemblers
-    - Business Layer
-    - Access Layer
   - OOPS principles
     - Domain Models
   - Unit Tests
     - How easy is it to unit test?
-- Cross Cutting
-  - reuse
-  - NFRs
-    - scalability
-    - performance
-    - security
-    - needs of operations team
-  -   - logging etc
 - Code
-  - 4 principles of simple desing
-  - Basics
-    - Formatting
-    - size
-    - complexity
-    - new language features
-    - documentation
-  -   - javadocs
-  - Scalability
-    - bottlenecks
-  - Performance
-    - no premature optimizations
-    - object creation in loops
-    - closing connections and other open stuff
-    - session usage
-    - caching?
-    - Database related?
-  - Operations
-    - Proper Exception Handling
+  - 4 principles of simple design
+  - Unit tests
+  - Programming Approach related things: Functional/OOPS/..
+  - Language specific things
+  	- Effective Java ..
+  	- New language features
+  	- Exception handling
     - Transaction Management
-  - Security
-  - unit tests
-    - readable
-  - Langauge Specific
-    - Object class methods
-  -   - equals
-  -   - hashcode
-    - String
-    - Generics
-    - Enums
-    - Creating and destroying objects
+  - NFRs (Performance/Security)
 - Engineering Practices
   - how often is code committed
   - Release practices
