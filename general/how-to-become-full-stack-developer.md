@@ -61,6 +61,18 @@ Ranga, Pavan and Sri Balaji discuss on how to become full stack developer in 202
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:00:40 What is a full stack and who is called a full stack developer?
+00:06:14 How can one get started to become a full stack developer?
+00:13:11 What are the alternative to java-fullstack developer?
+00:14:00 Can non-programming people like db admins/ops aim to become full stack, what could be a path to them?
+00:15:38 Importance of SDLC understanding while developing Full stack application?
+00:18:23 Importance of programming and problem solving in full stack development.
+00:19:23 What are the projects to focus on while working on Full stack development?
+00:20:58 Tell us the importance of clean code.
+00:25:26 How can someone stay updated with Full stack technologies?
+00:29:50 Now industry is evolving, so does companies expect full stack developers to know some knowledge on Cloud too?
+00:35:01 Job opportunities for Full stack Developer.
+00:37:48 Closing
 
 ```
 
