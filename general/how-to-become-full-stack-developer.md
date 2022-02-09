@@ -80,7 +80,11 @@ Ranga, Pavan and Sri Balaji discuss on how to become full stack developer in 202
 
 ```
 How to become a Full Stack Developer |  Pavan & Sri Balaji with Ranga
+
 Here's the complete conversation - https://youtu.be/7VM9iSrmYnU
+
+#in28minutes #fullstack #roadmap 
+
 ```
 
 ### Script
