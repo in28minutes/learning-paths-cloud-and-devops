@@ -25,5 +25,5 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |How to Become a Software Architect|[Video](https://www.youtube.com/watch?v=tA447bc9Q8c)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/programming/how-to-become-a-software-architect.md)|
 |Pass the Google Cloud Associate Cloud Engineer Certification |[Video](https://youtu.be/7RW6JvkvYwA)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/ace-certiification.md)|
 |DevOps Roadmap|[Video](https://youtu.be/YzhuQJJov1A)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/devops-roadmap.md)|
-|Full Stack Developer Roadmap|Target - 10 FEB Thursday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-become-full-stack-developer.md)|
+|Full Stack Developer Roadmap|[Video](https://youtu.be/7VM9iSrmYnU)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-become-full-stack-developer.md)|
 |Pass DP-900 Azure Fundamentals Certification|Target - 11 FEB Friday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/DP-900.md)|

@@ -4,7 +4,7 @@
 - **Preview Video TimeLines**: NOT NEEDED
 
 ### Video Editing Guidelines
-- Title: Full Stack Developer Roadmap | Simplified
+- Title: How to become a Full Stack Developer |  Pavan & Sri Balaji with Ranga
 - Thumbnail 
 	- Please use a screenshot from video
 		- Left bottom box: Full Stack Developer
@@ -79,8 +79,8 @@ Ranga, Pavan and Sri Balaji discuss on how to become full stack developer in 202
 ### Social Media Post
 
 ```
-Full Stack Developer Roadmap | Simplified
-Here's the complete conversation - 
+How to become a Full Stack Developer |  Pavan & Sri Balaji with Ranga
+Here's the complete conversation - https://youtu.be/7VM9iSrmYnU
 ```
 
 ### Script
