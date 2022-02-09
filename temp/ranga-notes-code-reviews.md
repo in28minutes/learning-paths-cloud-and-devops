@@ -44,8 +44,6 @@
     - Coupling
     - Cohesion
   - Layer Responsibilities
-  - OOPS principles
-    - Domain Models
   - Unit Tests
     - How easy is it to unit test?
 - Code
@@ -60,7 +58,7 @@
   - NFRs (Performance/Security)
 - Engineering Practices
   - how often is code committed
-  - Release practices
   - Broken Builds
+  - Release practices
   - Deployment Practices
   - Continuous Integration
