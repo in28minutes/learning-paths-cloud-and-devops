@@ -62,3 +62,14 @@
   - Release practices
   - Deployment Practices
   - Continuous Integration
+
+## Quick Things
+- Standards vs Principles
+- Role of Static Analysis in Code Reviews
+- Java Tips : minimum scope for variables, exception handling,functional programming?
+- Code quality is an attitude. Either, the team has it or not. 
+  - Attitude to refactor. To be boy scout. 
+  - As an architect, it is important to create an environment where such an attitude is appreciated.
+  - Have a good static analysis tool(and is part of Continuous Integration). 
+- Static Analysis is not a magic wand. For me, results from Static Analysis are a signal: It helps me decide where I should look during peer or architect reviews?
+- Have good peer review practices in place.
