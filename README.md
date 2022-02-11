@@ -27,3 +27,6 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |DevOps Roadmap|[Video](https://youtu.be/YzhuQJJov1A)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/devops/devops-roadmap.md)|
 |Full Stack Developer Roadmap|[Video](https://youtu.be/7VM9iSrmYnU)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-become-full-stack-developer.md)|
 |Pass DP-900 Azure Fundamentals Certification|Target - 11 FEB Friday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/DP-900.md)|
+|Become an Architect - 1 - Code Reviews|Target - 12 FEB Saturday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/code-reviews.md)|
+|Pass the Google Cloud Associate Cloud Engineer Certification |Target - 13 FEB Sunday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/pca-certiification.md)|
+|Full Stack Developer Roadmap|Target - 17 FEB Thursday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-become-front-end-developer.md)|
