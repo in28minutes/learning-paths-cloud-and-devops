@@ -49,6 +49,13 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:01:44 Experience with Code Reviews
+00:05:39 Goal of Code Reviews and Coding Standards
+00:09:13 Code Review is not a science, it's more of a art
+00:15:40 Boy Scout Rule
+00:19:02 Automation with Sonar and Best Practices
+00:43:20 Role of Pair Programming
+00:49:53 Closing
 
 #learning #career #technology #people #java #architect #javabrains #in28minutes #code #code-reviews
 ```
@@ -61,7 +68,7 @@ Caption: Best time to plant a tree is 20 years ago! The best time to bring autom
 
 ```
 New series on "Become an Architect" - Code Reviews
-Video - TODO
+Video - https://youtu.be/ZBO3JTYgHwU
 Entire series - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6uMCQik02JO_68gqwZbqCrxdRZ
 
 #learning #career #technology #people #java
