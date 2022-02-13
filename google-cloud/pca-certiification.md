@@ -59,6 +59,12 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 
 00:00:00 Introduction
+00:00:31 Who should do the Professional Cloud Architect Certification ?
+00:09:58 How important are the foundational level certification for Professional Cloud Architect Certification ?
+00:14:20 What are the learning areas of Professional Cloud Architect ?
+00:27:29 How to prepare for Professional Cloud Architect ? 
+00:34:36 Case Study for Professional Cloud Architect.
+00:43:43 Closing
 
 #PCA #cloud-certifications #cloud #gcp #googlecloud #in28minutes
 
@@ -67,7 +73,7 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 ### Social Media Post
 
 ```
-Watch it here - VIDEO
+Watch it here - https://youtu.be/_CI8qgU4_1Y
 
 COMPLETE SERIES - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6uMCQik02JO_68gqwZbqCrxdRZ
 
