@@ -28,4 +28,4 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Full Stack Developer Roadmap|[Video](https://youtu.be/7VM9iSrmYnU)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/general/how-to-become-full-stack-developer.md)|
 |Pass DP-900 Azure Fundamentals Certification|[Video](https://youtu.be/2hYmMAcKy8g)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/azure/DP-900.md)|
 |Become an Architect - 1 - Code Reviews|[Video](https://youtu.be/ZBO3JTYgHwU)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/code-reviews.md)|
-|Pass the Google Cloud Professional Cloud Architect Certification |Target - 13 FEB Sunday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/pca-certiification.md)|
+|Pass the Google Cloud Professional Cloud Architect Certification |[Video](https://youtu.be/_CI8qgU4_1Y)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/pca-certiification.md)|
