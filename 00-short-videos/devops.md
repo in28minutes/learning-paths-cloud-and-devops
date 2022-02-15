@@ -1,6 +1,6 @@
 ## DevOps
 
-- 3 Elements of Devops
+- 3 KEY Elements of DevOps
 	- Communication
 	- Feedback
 	- Automation
@@ -15,7 +15,7 @@
 - DevOps vs DevSecOps vs SRE vs AIOps
 	- security is present during every stage of the software delivery lifecycle (It’s a mindset). application and infrastructure security from start. training and automation play a key role.
 	- Artificial Intelligence for IT Operations	- combines big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination
-- 3 Important Devops Practices
+- 3 Important DevOps Practices
 	- Continuous Integration/Delivery/Deployment
 	- Infrastructure as Code
 	- Containers and Container Orchestration
@@ -27,13 +27,13 @@
 	- Time To Market
 - 7Cs of DevOps
 	- Continuous (Planning, Development, Integration, Deployment, Testing, Delivery & Monitoring, and Feedback)
-- 3 Elements of DEVOPS CULTURE
+- 3 Elements of DevOps CULTURE
 	- What would you do if something is difficult?
 	- Focus on the End Goal
 	- Continuous Improvements
 	- Culture of Learning and Sharing
 		- Convert Local Discoveries to Global Improvements
-- 5 Devops Best Practices
+- 5 DevOps Best Practices
 	- Standardization
 		- Get all teams aligned (Containers)
 	- Limit Work In Progress
@@ -95,6 +95,8 @@
 	- Security
 - Docker vs Kubernetes
 - DevOps with Kubernetes - Simple Example
+- How does Docker simplify microservices architectures?
+- How does Kubernetes simplify microservices architectures?
 - Why Container First?
 	- Standardization
 	- Flexibility
@@ -107,6 +109,7 @@
 - Is Terraform really Multi-Cloud?
 - Ansible
 - My favorite 5 DevOps Tools
+- SRE
 - SRE vs DevOps - 3 important differences
 
 ## Shorts
@@ -125,3 +128,9 @@
 - Istio
 - ECS vs Kubernetes
 - SLI vs SLO vs Error Budget???
+- Cloud
+- Docker Hub
+- Immutable Infrastructure
+- Pod in 1 minute
+- Replica Set
+- Deployment
