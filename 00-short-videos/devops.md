@@ -10,7 +10,7 @@
 		- continuous improvement through Measurement (KPIs (Key Performance Indicators))
 		- visibility, transfer of knowledge
 - Is Automation Testing part of DevOps?
-	- Maven, Gradle, npm, Junit, Mockito, Selenium, SonarQuble, Karma, Gatling etc..
+	- Maven, Gradle, npm, Junit, Mockito, Selenium, SonarQube, Karma, Gatling etc..
 - DevOps vs Agile
 - DevOps vs DevSecOps vs SRE vs AIOps
 	- security is present during every stage of the software delivery lifecycle (It’s a mindset). application and infrastructure security from start. training and automation play a key role.
@@ -111,6 +111,10 @@
 - My favorite 5 DevOps Tools
 - SRE
 - SRE vs DevOps - 3 important differences
+- ArgoCD 
+- Flux
+- Terraform Kitchen Inspec
+
 
 ## Shorts
 
@@ -134,3 +138,4 @@
 - Pod in 1 minute
 - Replica Set
 - Deployment
+- GitOps
