@@ -1,0 +1,126 @@
+## DevOps
+
+- 3 Elements of Devops
+	- Communication
+	- Feedback
+	- Automation
+- DevOps Values and Mindset - CAMS 
+	- Culture, Automation, Measurement and Sharing
+		- Scrum, Full stack (T-shaped), Fail fast
+		- continuous improvement through Measurement (KPIs (Key Performance Indicators))
+		- visibility, transfer of knowledge
+- Is Automation Testing part of DevOps?
+	- Maven, Gradle, npm, Junit, Mockito, Selenium, SonarQuble, Karma, Gatling etc..
+- DevOps vs Agile
+- DevOps vs DevSecOps vs SRE vs AIOps
+	- security is present during every stage of the software delivery lifecycle (It’s a mindset). application and infrastructure security from start. training and automation play a key role.
+	- Artificial Intelligence for IT Operations	- combines big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination
+- 3 Important Devops Practices
+	- Continuous Integration/Delivery/Deployment
+	- Infrastructure as Code
+	- Containers and Container Orchestration
+- 3 DevOps Metrics To Focus On
+	- Deployment Frequency
+	- Failure Rate of New Releases
+	- Lead Time to Fixes
+	- Mean Time to Recovery
+	- Time To Market
+- 7Cs of DevOps
+	- Continuous (Planning, Development, Integration, Deployment, Testing, Delivery & Monitoring, and Feedback)
+- 3 Elements of DEVOPS CULTURE
+	- What would you do if something is difficult?
+	- Focus on the End Goal
+	- Continuous Improvements
+	- Culture of Learning and Sharing
+		- Convert Local Discoveries to Global Improvements
+- 5 Devops Best Practices
+	- Standardization
+		- Get all teams aligned (Containers)
+	- Limit Work In Progress
+	- Enable Quick Feedback - Shift Left - Keep Pushing Quality Close To Source and Fast Feedback - Drive towards TDD and Pair Programming!
+	- Automate As Much As Possible
+	  - NFR Tests - Performance and Load Tests
+	- Immutable Infra
+	- Enable Low Risk Releases
+	- Culture
+- 3 Reasons why Docker is popular
+- 3 Reasons why Kubernetes is popular
+- 3 Reasons why Terraform is popular
+- Docker and Kubernetes Simplify DevOps
+	- Provision Clusters, Deploy Microservice Containers
+	- If you are using Docker containers for running your applications, the containers are self sufficient and will have all the required configuration packed into it for your application. In this case, the need of a configuration management tool like chef or puppet is not that much. But you still need something to manage your infrastructure with code. Because the containers will ultimately run on top of a server/vm in a cloud infra. Terraform can step in and create your required infra for your containers to run on.
+- Continuous Integration vs Continuous Deployment vs Continuous Delivery
+- Infrastructure as Code
+- Infrastructure as Code - 3 Advantages
+	- Less Errors
+	- Declarative
+	- Avoid Configuration Drift
+	- Quick Recovery from Failures
+- Infrastructure as Code - 3 Best Practices
+	- Immutable Infrastructure
+	- Version Your Infrastructure
+		- Do not do anything manually
+		- Do Incremental Changes
+	- Enable Self Provisioning
+	- Treat Servers as Disposable
+- Docker
+	- Standaridized  Application Packaging
+	- Language Neutral
+	- Cloud Neutral
+	- Enables Standardization
+	- Less Performance Tax compared to Virtual Machines
+- 3 Important Docker Concepts
+	- Docker Image
+	- Docker Registry 
+		- Docker Hub
+		- Cloud Registries
+	- Docker Repository
+	- Container Orchestration
+- Running Docker Containers in AWS, Azure and Google Cloud
+- 3 Best Practices in Building Docker Images
+	- Keep them small
+	- Build them fast
+		- Understand layer caching
+	- Take care of security
+	- Understand networking
+- Kubernetes
+	- Manage 1000's of instances of 1000's of microservices Declaratively
+	- Features : Auto Scaling, Service Discovery, Load Balancing, Self Healing, Zero Downtime Deployments
+	- Cloud Neutral - Standardized Platform  on any infrastructure
+- 3 Important Kubernetes Concepts
+	- Pods, Replica Sets, Service and Deployment
+- 3 Kubernetes Best Practices
+	- Service Mesh - Istio
+	- Helm
+	- Security
+- Docker vs Kubernetes
+- Why Container First?
+	- Standardization
+	- Flexibility
+	- Cloud Neutral
+	- Better Performance
+- Terraform
+- Docker Compose vs Kubernetes vs Docker Swarm
+- Kubernetes - OpenShift vs EKS vs AKS vs GKE
+- Terraform vs CloudFormation vs Ansible vs Pulumi
+- Is Terraform really Multi-Cloud?
+- Ansible
+- My favorite 5 DevOps Tools
+- SRE vs DevOps - 3 important differences
+
+## Shorts
+
+- Service Mesh or Istio
+- Shift Left
+	- Push Quality near to Source
+- Declarative Configuration
+	- Terraform or Kubernetes
+- Immutability
+	- Terraform
+- Self Healing
+- Learn to say NO
+- Knative
+- OpenShift
+- Pulumi
+- ECS vs Kubernetes
+- SLI vs SLO vs Error Budget???
