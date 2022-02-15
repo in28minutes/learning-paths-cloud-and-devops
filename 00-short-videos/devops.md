@@ -94,6 +94,7 @@
 	- Helm
 	- Security
 - Docker vs Kubernetes
+- DevOps with Kubernetes - Simple Example
 - Why Container First?
 	- Standardization
 	- Flexibility
@@ -110,7 +111,6 @@
 
 ## Shorts
 
-- Service Mesh or Istio
 - Shift Left
 	- Push Quality near to Source
 - Declarative Configuration
@@ -118,9 +118,10 @@
 - Immutability
 	- Terraform
 - Self Healing
-- Learn to say NO
 - Knative
 - OpenShift
 - Pulumi
+- Helm
+- Istio
 - ECS vs Kubernetes
 - SLI vs SLO vs Error Budget???
