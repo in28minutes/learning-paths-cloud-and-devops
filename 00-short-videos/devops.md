@@ -63,6 +63,7 @@
 - Docker Compose vs Kubernetes vs Docker Swarm
 - Kubernetes - OpenShift vs EKS vs AKS vs GKE
 - Continuous Integration vs Continuous Deployment vs Continuous Delivery
+- Continuous Integration - 3 Best Practices
 - Infrastructure as Code
 - Infrastructure as Code - 3 Advantages
 	- Less Errors
@@ -150,3 +151,4 @@
 - Anthos
 - Skaffold
 - Microk8s
+- AWS Cloud Formation
