@@ -4,13 +4,6 @@
 	- Communication
 	- Feedback
 	- Automation
-- DevOps Values and Mindset - CAMS 
-	- Culture, Automation, Measurement and Sharing
-		- Scrum, Full stack (T-shaped), Fail fast
-		- continuous improvement through Measurement (KPIs (Key Performance Indicators))
-		- visibility, transfer of knowledge
-- Is Automation Testing part of DevOps?
-	- Maven, Gradle, npm, Junit, Mockito, Selenium, SonarQuble, Karma, Gatling etc..
 - DevOps vs Agile
 - DevOps vs DevSecOps vs SRE vs AIOps
 	- security is present during every stage of the software delivery lifecycle (It’s a mindset). application and infrastructure security from start. training and automation play a key role.
@@ -19,51 +12,7 @@
 	- Continuous Integration/Delivery/Deployment
 	- Infrastructure as Code
 	- Containers and Container Orchestration
-- 3 DevOps Metrics To Focus On
-	- Deployment Frequency
-	- Failure Rate of New Releases
-	- Lead Time to Fixes
-	- Mean Time to Recovery
-	- Time To Market
-- 7Cs of DevOps
-	- Continuous (Planning, Development, Integration, Deployment, Testing, Delivery & Monitoring, and Feedback)
-- 3 Elements of DevOps CULTURE
-	- What would you do if something is difficult?
-	- Focus on the End Goal
-	- Continuous Improvements
-	- Culture of Learning and Sharing
-		- Convert Local Discoveries to Global Improvements
-- 5 DevOps Best Practices
-	- Standardization
-		- Get all teams aligned (Containers)
-	- Limit Work In Progress
-	- Enable Quick Feedback - Shift Left - Keep Pushing Quality Close To Source and Fast Feedback - Drive towards TDD and Pair Programming!
-	- Automate As Much As Possible
-	  - NFR Tests - Performance and Load Tests
-	- Immutable Infra
-	- Enable Low Risk Releases
-	- Culture
-- 3 Reasons why Docker is popular
-- 3 Reasons why Kubernetes is popular
-- 3 Reasons why Terraform is popular
-- Docker and Kubernetes Simplify DevOps
-	- Provision Clusters, Deploy Microservice Containers
-	- If you are using Docker containers for running your applications, the containers are self sufficient and will have all the required configuration packed into it for your application. In this case, the need of a configuration management tool like chef or puppet is not that much. But you still need something to manage your infrastructure with code. Because the containers will ultimately run on top of a server/vm in a cloud infra. Terraform can step in and create your required infra for your containers to run on.
-- Continuous Integration vs Continuous Deployment vs Continuous Delivery
-- Infrastructure as Code
-- Infrastructure as Code - 3 Advantages
-	- Less Errors
-	- Declarative
-	- Avoid Configuration Drift
-	- Quick Recovery from Failures
-- Infrastructure as Code - 3 Best Practices
-	- Immutable Infrastructure
-	- Version Your Infrastructure
-		- Do not do anything manually
-		- Do Incremental Changes
-	- Enable Self Provisioning
-	- Treat Servers as Disposable
-- Docker
+- 3 Reasons why Docker is popular- Docker
 	- Standaridized  Application Packaging
 	- Language Neutral
 	- Cloud Neutral
@@ -95,6 +44,7 @@
 	- Security
 - Docker vs Kubernetes
 - DevOps with Kubernetes - Simple Example
+- 3 Reasons why Kubernetes is popular
 - How does Docker simplify microservices architectures?
 - How does Kubernetes simplify microservices architectures?
 - Why Container First?
@@ -102,15 +52,64 @@
 	- Flexibility
 	- Cloud Neutral
 	- Better Performance
-- Terraform
+- Docker and Kubernetes Simplify DevOps
+	- Provision Clusters, Deploy Microservice Containers
+	- If you are using Docker containers for running your applications, the containers are self sufficient and will have all the required configuration packed into it for your application. In this case, the need of a configuration management tool like chef or puppet is not that much. But you still need something to manage your infrastructure with code. Because the containers will ultimately run on top of a server/vm in a cloud infra. Terraform can step in and create your required infra for your containers to run on.
 - Docker Compose vs Kubernetes vs Docker Swarm
 - Kubernetes - OpenShift vs EKS vs AKS vs GKE
+- Continuous Integration vs Continuous Deployment vs Continuous Delivery
+- Infrastructure as Code
+- Infrastructure as Code - 3 Advantages
+	- Less Errors
+	- Declarative
+	- Avoid Configuration Drift
+	- Quick Recovery from Failures
+- Infrastructure as Code - 3 Best Practices
+	- Immutable Infrastructure
+	- Version Your Infrastructure
+		- Do not do anything manually
+		- Do Incremental Changes
+	- Enable Self Provisioning
+	- Treat Servers as Disposable
+- 3 Reasons why Terraform is popular
+- Terraform
 - Terraform vs CloudFormation vs Ansible vs Pulumi
 - Is Terraform really Multi-Cloud?
 - Ansible
 - My favorite 5 DevOps Tools
 - SRE
 - SRE vs DevOps - 3 important differences
+- DevOps Values and Mindset - CAMS 
+	- Culture, Automation, Measurement and Sharing
+		- Scrum, Full stack (T-shaped), Fail fast
+		- continuous improvement through Measurement (KPIs (Key Performance Indicators))
+		- visibility, transfer of knowledge
+- Is Automation Testing part of DevOps?
+	- Maven, Gradle, npm, Junit, Mockito, Selenium, SonarQuble, Karma, Gatling etc..
+- 3 DevOps Metrics To Focus On
+	- Deployment Frequency
+	- Failure Rate of New Releases
+	- Lead Time to Fixes
+	- Mean Time to Recovery
+	- Time To Market
+- 7Cs of DevOps
+	- Continuous (Planning, Development, Integration, Deployment, Testing, Delivery & Monitoring, and Feedback)
+- 3 Elements of DevOps CULTURE
+	- What would you do if something is difficult?
+	- Focus on the End Goal
+	- Continuous Improvements
+	- Culture of Learning and Sharing
+		- Convert Local Discoveries to Global Improvements
+- 5 DevOps Best Practices
+	- Standardization
+		- Get all teams aligned (Containers)
+	- Limit Work In Progress
+	- Enable Quick Feedback - Shift Left - Keep Pushing Quality Close To Source and Fast Feedback - Drive towards TDD and Pair Programming!
+	- Automate As Much As Possible
+	  - NFR Tests - Performance and Load Tests
+	- Immutable Infra
+	- Enable Low Risk Releases
+	- Culture
 
 ## Shorts
 
@@ -131,6 +130,6 @@
 - Cloud
 - Docker Hub
 - Immutable Infrastructure
-- Pod in 1 minute
+- Pod
 - Replica Set
 - Deployment
