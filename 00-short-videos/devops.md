@@ -4,6 +4,11 @@
 	- Communication
 	- Feedback
 	- Automation
+- DevOps Values and Mindset - CAMS 
+	- Culture, Automation, Measurement and Sharing
+		- Scrum, Full stack (T-shaped), Fail fast
+		- continuous improvement through Measurement (KPIs (Key Performance Indicators))
+		- visibility, transfer of knowledge
 - DevOps vs Agile
 - DevOps vs DevSecOps vs SRE vs AIOps
 	- security is present during every stage of the software delivery lifecycle (It’s a mindset). application and infrastructure security from start. training and automation play a key role.
@@ -110,6 +115,9 @@
 	- Immutable Infra
 	- Enable Low Risk Releases
 	- Culture
+- ArgoCD 
+- Flux
+- Terraform Kitchen Inspec
 
 ## Shorts
 
@@ -133,3 +141,4 @@
 - Pod
 - Replica Set
 - Deployment
+- GitOps
