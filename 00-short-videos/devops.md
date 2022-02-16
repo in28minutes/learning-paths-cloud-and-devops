@@ -82,6 +82,10 @@
 - Is Terraform really Multi-Cloud?
 - Ansible
 - My favorite 5 DevOps Tools
+- DevOps - Top 3 CI/CD Tools
+- DevOps - Top 3 IaaC Tools
+- DevOps - Top 3 Operations Tools
+- DevOps - Top 3 Container Tools
 - SRE
 - SRE vs DevOps - 3 important differences
 - DevOps Values and Mindset - CAMS 
@@ -142,3 +146,7 @@
 - Replica Set
 - Deployment
 - GitOps
+- Graal Native Image
+- Anthos
+- Skaffold
+- Microk8s
