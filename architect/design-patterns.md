@@ -1,4 +1,4 @@
-## Become an Architect - 1 - Design Patterns
+## Become an Architect - 2 - Design Patterns
 
 - **Title**: Become an Architect - 2 - Design Patterns
 - **Video File Name**: Become an Architect - 2 - Design Patterns
