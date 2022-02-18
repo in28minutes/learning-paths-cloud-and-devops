@@ -152,3 +152,5 @@
 - Skaffold
 - Microk8s
 - AWS Cloud Formation
+- ELK Stack
+- Observability
