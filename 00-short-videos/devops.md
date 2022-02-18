@@ -4,11 +4,11 @@
 	- Communication
 	- Feedback
 	- Automation
-- DevOps Values and Mindset - CAMS 
+- 4 DevOps Values (CAMS)
 	- Culture, Automation, Measurement and Sharing
 		- Scrum, Full stack (T-shaped), Fail fast
-		- continuous improvement through Measurement (KPIs (Key Performance Indicators))
-		- visibility, transfer of knowledge
+		- Continuous improvement through Measurement (KPIs (Key Performance Indicators))
+		- Visibility, Transfer of knowledge
 - DevOps vs Agile
 - DevOps vs DevSecOps vs SRE vs AIOps
 	- security is present during every stage of the software delivery lifecycle (It’s a mindset). application and infrastructure security from start. training and automation play a key role.
@@ -17,8 +17,8 @@
 	- Continuous Integration/Delivery/Deployment
 	- Infrastructure as Code
 	- Containers and Container Orchestration
-- 3 Reasons why Docker is popular- Docker
-	- Standaridized  Application Packaging
+- 3 Reasons why Docker is popular
+	- Standardized  Application Packaging
 	- Language Neutral
 	- Cloud Neutral
 	- Enables Standardization
@@ -28,9 +28,10 @@
 	- Docker Registry 
 		- Docker Hub
 		- Cloud Registries
-	- Docker Repository
 	- Container Orchestration
-- Running Docker Containers in AWS, Azure and Google Cloud
+- Docker in AWS
+- Docker in Azure
+- Docker in Google Cloud
 - 3 Best Practices in Building Docker Images
 	- Keep them small
 	- Build them fast
@@ -44,14 +45,17 @@
 - 3 Important Kubernetes Concepts
 	- Pods, Replica Sets, Service and Deployment
 - 3 Kubernetes Best Practices
+	- Version Control for Configuration Files
+	- Use Namespaces
 	- Service Mesh - Istio
 	- Helm
-	- Security
-- Docker vs Kubernetes
-- DevOps with Kubernetes - Simple Example
-- 3 Reasons why Kubernetes is popular
-- How does Docker simplify microservices architectures?
-- How does Kubernetes simplify microservices architectures?
+	- Security - Namespaces, RBAC and Firewall
+	- Set Resource Requests & Limits
+	- Ensure that Docker Best Practices are adhered to!
+	- Set up CI/CD
+- DevOps with Kubernetes 
+	- Simple Example
+- Microservices with Docker and Kubernetes
 - Why Container First?
 	- Standardization
 	- Flexibility
@@ -62,10 +66,15 @@
 	- If you are using Docker containers for running your applications, the containers are self sufficient and will have all the required configuration packed into it for your application. In this case, the need of a configuration management tool like chef or puppet is not that much. But you still need something to manage your infrastructure with code. Because the containers will ultimately run on top of a server/vm in a cloud infra. Terraform can step in and create your required infra for your containers to run on.
 - Docker Compose vs Kubernetes vs Docker Swarm
 - Kubernetes - OpenShift vs EKS vs AKS vs GKE
-- Continuous Integration vs Continuous Deployment vs Continuous Delivery
+- Continuous Integration vs Deployment vs Delivery
 - Continuous Integration - 3 Best Practices
-- Infrastructure as Code
+	- Fast pipelines (Build time is important)
+	- Commit early, commit often
+	- Build only once
+	- Run code quality checks and automation tests
+	- Dev Prod Parity
 - Infrastructure as Code - 3 Advantages
+	- Faster
 	- Less Errors
 	- Declarative
 	- Avoid Configuration Drift
@@ -78,38 +87,20 @@
 	- Enable Self Provisioning
 	- Treat Servers as Disposable
 - 3 Reasons why Terraform is popular
-- Terraform
+	- Multi-cloud
+	- Declarative
+	- Agentless
 - Terraform vs CloudFormation vs Ansible vs Pulumi
-- Is Terraform really Multi-Cloud?
-- Ansible
-- My favorite 5 DevOps Tools
-- DevOps - Top 3 CI/CD Tools
+- Terraform vs Ansible vs Chef vs Puppet 
+	- All tools can be used on the cloud - AWS, Azure and Google Cloud
+	- Chef and Puppet use Master Server architecture and need Agents installed on all servers you want to manage
+- DevOps - Top 3 Continuous Integration & Deployment Tools
 - DevOps - Top 3 IaaC Tools
 - DevOps - Top 3 Operations Tools
-- DevOps - Top 3 Container Tools
 - SRE
-- SRE vs DevOps - 3 important differences
-- DevOps Values and Mindset - CAMS 
-	- Culture, Automation, Measurement and Sharing
-		- Scrum, Full stack (T-shaped), Fail fast
-		- continuous improvement through Measurement (KPIs (Key Performance Indicators))
-		- visibility, transfer of knowledge
-- Is Automation Testing part of DevOps?
-	- Maven, Gradle, npm, Junit, Mockito, Selenium, SonarQuble, Karma, Gatling etc..
-- 3 DevOps Metrics To Focus On
-	- Deployment Frequency
-	- Failure Rate of New Releases
-	- Lead Time to Fixes
-	- Mean Time to Recovery
-	- Time To Market
+- SRE vs DevOp
 - 7Cs of DevOps
 	- Continuous (Planning, Development, Integration, Deployment, Testing, Delivery & Monitoring, and Feedback)
-- 3 Elements of DevOps CULTURE
-	- What would you do if something is difficult?
-	- Focus on the End Goal
-	- Continuous Improvements
-	- Culture of Learning and Sharing
-		- Convert Local Discoveries to Global Improvements
 - 5 DevOps Best Practices
 	- Standardization
 		- Get all teams aligned (Containers)
@@ -120,9 +111,6 @@
 	- Immutable Infra
 	- Enable Low Risk Releases
 	- Culture
-- ArgoCD 
-- Flux
-- Terraform Kitchen Inspec
 
 ## Shorts
 
@@ -130,27 +118,23 @@
 	- Push Quality near to Source
 - Declarative Configuration
 	- Terraform or Kubernetes
-- Immutability
+- Immutable Infrastructure
 	- Terraform
-- Self Healing
+- Dev Prod Parity
 - Knative
 - OpenShift
 - Pulumi
 - Helm
 - Istio
 - ECS vs Kubernetes
-- SLI vs SLO vs Error Budget???
-- Cloud
 - Docker Hub
-- Immutable Infrastructure
-- Pod
-- Replica Set
-- Deployment
 - GitOps
-- Graal Native Image
 - Anthos
 - Skaffold
 - Microk8s
-- AWS Cloud Formation
 - ELK Stack
-- Observability
+- Is Terraform really Multi-Cloud?
+- Ansible
+- ArgoCD
+- Flux
+- Terraform Kitchen Inspec
