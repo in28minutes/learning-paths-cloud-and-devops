@@ -90,6 +90,7 @@
 	- Multi-cloud
 	- Declarative
 	- Agentless
+	- Hashicorp Configuration Language (HCL)
 - Terraform vs CloudFormation vs Ansible vs Pulumi
 - Terraform vs Ansible vs Chef vs Puppet 
 	- All tools can be used on the cloud - AWS, Azure and Google Cloud

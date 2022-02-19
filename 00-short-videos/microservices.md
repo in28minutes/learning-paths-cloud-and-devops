@@ -1,0 +1,8 @@
+- Azure Spring Cloud
+- 3 advantages of microservices architectures
+- 3 challenges with microservices
+- 3 best practices with microservices
+- What languages are used for microservices?
+- Docker and Microservices
+- Kubernetes and Microservices
+- Microservices in Cloud
