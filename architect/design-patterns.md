@@ -41,7 +41,14 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
-
+00:01:02 Design vs Architecture
+00:08:58 What are patterns?
+00:17:19 What is your experience with learning and using design patterns?
+00:36:03 What are the important design patterns?
+00:41:19 What is abstraction?
+00:45:12 Single responsibility principle
+00:50:26 What is Dependency Injection?
+00:56:52 Where can someone start with Design Patterns?
 
 #learning #career #technology #people #java #architect #javabrains #in28minutes #code #design-patterns #design
 ```
@@ -50,7 +57,8 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 
 ```
-Koushik, Siva and Ranga discuss Design Patterns. Video - 
+Koushik, Siva and Ranga discuss Design Patterns. Video - https://youtu.be/Peb98Tg55RQ
+#learning #career #technology #people #java #architect #javabrains #in28minutes #code #design-patterns #design
 ```
 
 ### Script
