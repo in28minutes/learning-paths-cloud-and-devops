@@ -14,56 +14,50 @@
 
 ## DevOps
 
-- 3 KEY Elements of DevOps
-	- Communication
-	- Feedback
-	- Automation
-- DevOps vs Agile
-	- 1: Communication
-		- Agile: Dev + Test + BA
-		- DevOps: Dev + Test + BA + Ops
-	- 2: Automation & Quick Feedback
-		- Agile: Iterations, Extreme Programming, CI/CD
-		- DevOps: Agile + IaaC + Observability
-- DevOps vs DevSecOps vs AIOps
-	- DevOps: Communication + Feedback + Automation
-	- DevSecOps: DevOps + Security in each stage
-	- AIOps: DevOps + ML on Observability
-	- Notes: Security is present during every stage of the software delivery lifecycle (It’s a mindset). Application and infrastructure security from start. training and automation play a key role.
-	- Notes: Artificial Intelligence for IT Operations	- combines big data and machine learning to automate IT operations processes (anomalies, find causes)
-- DELETE
-- Continuous Integration vs Delivery vs Deployment
-	- Continuous Integration: Build a Deployable Package
-	- Continuous Delivery: Automate Deployment to Test Environments
-	- Continuous Deployment: Automate Deployment to Production
-- DELETE
-- DELETE
-- DELETE
-- Declarative Configuration - Terraform and Kubernetes
-	- Desired state vs Actual state
-	- Kubernetes Example
-	- Terraform Example
-- DELETE
-- DELETE
-- DELETE
-- Short: Immutable Infrastructure in 1 Minute
-- Short: OpenShift in 1 Minute
-- Short: Pulumi in 1 Minute
-- DELETE
-- Short: Istio in 1 Minute
-- Short: ECS vs Kubernetes in 1 Minute
-- Short: Anthos in 1 Minute
-- Short: Is Terraform really Multi-Cloud?
+- Recorded (2022-02-23)
+	- 3 KEY Elements of DevOps
+		- Communication
+		- Feedback
+		- Automation
+	- DevOps vs Agile
+		- 1: Communication
+			- Agile: Dev + Test + BA
+			- DevOps: Dev + Test + BA + Ops
+		- 2: Automation & Quick Feedback
+			- Agile: Iterations, Extreme Programming, CI/CD
+			- DevOps: Agile + IaaC + Observability
+	- DevOps vs DevSecOps vs AIOps
+		- DevOps: Communication + Feedback + Automation
+		- DevSecOps: DevOps + Security in each stage
+		- AIOps: DevOps + ML on Observability
+		- Notes: Security is present during every stage of the software delivery lifecycle (It’s a mindset). Application and infrastructure security from start. training and automation play a key role.
+		- Notes: Artificial Intelligence for IT Operations	- combines big data and machine learning to automate IT operations processes (anomalies, find causes)
+	- Continuous Integration vs Delivery vs Deployment
+		- Continuous Integration: Build a Deployable Package
+		- Continuous Delivery: Automate Deployment to Test Environments
+		- Continuous Deployment: Automate Deployment to Production
+	- Declarative Configuration - Terraform and Kubernetes
+		- Desired state vs Actual state
+		- Kubernetes Example
+		- Terraform Example
+	- Short: Immutable Infrastructure in 1 Minute
+	- Short: OpenShift in 1 Minute
+	- Short: Pulumi in 1 Minute
+	- DELETE
+	- Short: Istio in 1 Minute
+	- Short: ECS vs Kubernetes in 1 Minute
+	- Short: Anthos in 1 Minute
+	- Short: Is Terraform really Multi-Cloud?
+	- Short: Docker vs OCI (Open Container Initiative)
+		- Goal: promote a set of common, minimal, open standards and specifications around container technology
+		- Runtime Specification (runtime-spec) (example implementation: rkt)
+		- Image Specification (image-spec)
+	- Short: Should you learn Jenkins?
+		- Continuous Delivery June 2020 Tech Radar: 
+			- Still widely evaluated and used
+			- primarily used for existing deployments
+			- new applications have migrated to other solutions
 - Short: Ansible in 1 Minute
-- Short: Docker vs OCI (Open Container Initiative)
-	- Goal: promote a set of common, minimal, open standards and specifications around container technology
-	- Runtime Specification (runtime-spec) (example implementation: rkt)
-	- Image Specification (image-spec)
-- Short: Should you learn Jenkins?
-	- Continuous Delivery June 2020 Tech Radar: 
-		- Still widely evaluated and used
-		- primarily used for existing deployments
-		- new applications have migrated to other solutions
 - GitOps
 - Skaffold
 - Microk8s
