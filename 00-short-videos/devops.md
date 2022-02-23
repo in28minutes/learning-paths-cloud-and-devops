@@ -1,59 +1,126 @@
+## High Level Thoughts
+- 1 Minute videos (Tool/concept intros)
+- 3 Minute videos
+	- 3 Best Practices
+	- 3 Important Concepts
+	- 3 Key Advantages
+	- Why something is popular? (Advantages)
+	- Comparisons
+	- Tool/Concept in Cloud A/Cloud B/Cloud C
+	- Quick Flow with a Diagram
+		- DevOps with Docker/Kubernetes
+	- Connect Tool/Concept with Architecture Styles (Serverless/Microservices/..)
+	- Top 3 Tools for a Concept!
+
 ## DevOps
 
 - 3 KEY Elements of DevOps
 	- Communication
 	- Feedback
 	- Automation
-- 4 DevOps Values (CAMS)
-	- Culture, Automation, Measurement and Sharing
-		- Scrum, Full stack (T-shaped), Fail fast
-		- Continuous improvement through Measurement (KPIs (Key Performance Indicators))
-		- Visibility, Transfer of knowledge
 - DevOps vs Agile
-- DevOps vs DevSecOps vs SRE vs AIOps
-	- security is present during every stage of the software delivery lifecycle (It’s a mindset). application and infrastructure security from start. training and automation play a key role.
-	- Artificial Intelligence for IT Operations	- combines big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination
+	- 1: Communication
+		- Agile: Dev + Test + BA
+		- DevOps: Dev + Test + BA + Ops
+	- 2: Automation & Quick Feedback
+		- Agile: Iterations, Extreme Programming, CI/CD
+		- DevOps: Agile + IaaC + Observability
+- DevOps vs DevSecOps vs AIOps
+	- DevOps: Communication + Feedback + Automation
+	- DevSecOps: DevOps + Security in each stage
+	- AIOps: DevOps + ML on Observability
+	- Notes: Security is present during every stage of the software delivery lifecycle (It’s a mindset). Application and infrastructure security from start. training and automation play a key role.
+	- Notes: Artificial Intelligence for IT Operations	- combines big data and machine learning to automate IT operations processes (anomalies, find causes)
+- DELETE
+- Continuous Integration vs Delivery vs Deployment
+	- Continuous Integration: Build a Deployable Package
+	- Continuous Delivery: Automate Deployment to Test Environments
+	- Continuous Deployment: Automate Deployment to Production
+- DELETE
+- DELETE
+- DELETE
+- Declarative Configuration - Terraform and Kubernetes
+	- Desired state vs Actual state
+	- Kubernetes Example
+	- Terraform Example
+- DELETE
+- DELETE
+- DELETE
+- Short: Immutable Infrastructure in 1 Minute
+- Short: OpenShift in 1 Minute
+- Short: Pulumi in 1 Minute
+- DELETE
+- Short: Istio in 1 Minute
+- Short: ECS vs Kubernetes in 1 Minute
+- Short: Anthos in 1 Minute
+- Short: Is Terraform really Multi-Cloud?
+- Short: Ansible in 1 Minute
+- Short: Docker vs OCI (Open Container Initiative)
+	- Goal: promote a set of common, minimal, open standards and specifications around container technology
+	- Runtime Specification (runtime-spec) (example implementation: rkt)
+	- Image Specification (image-spec)
+- Short: Should you learn Jenkins?
+	- Continuous Delivery June 2020 Tech Radar: 
+		- Still widely evaluated and used
+		- primarily used for existing deployments
+		- new applications have migrated to other solutions
+- GitOps
+- Skaffold
+- Microk8s
+- ArgoCD
+- Knative
+- Helm in 1 Minute
+- Cloud Native Computing Foundation (CNCF)
+	- vendor-neutral home for many of the fastest-growing open source projects (advance container technology)
+	- Founding members include Google, Red Hat, Twitter, Intel ..
+	- containerd (Container Runtime), Kubernetes, Jaeger, fluentd (Logging), Prometheus, Linkerd (Service Mesh) and Helm ("package manager")
+	- CKA and CKAD
+- Observability
+	- what’s happening in production without changing your code (solving problems by putting data to work)
+	- Scope is bigger than monitoring
+	- Traces + Metrics + Logs
+	- Instrumentation
+	- OpenTelemetry
+- OpenTelemetry vs OpenCensus vs OpenTracing
+	- OpenTracing - Focused on Tracing
+	- OpenCensus - metrics + tracing
+	- OpenTelemetry = merging of OpenCensus + OpenTracing
+		- pluggable backends
+			- Prometheus (for metrics)
+			- Logstash, or FluentD, Elasticsearch (for logs), 
+			- Jaeger, Zipkin (for traces)
+		- Integration with AWS, Azure, Google Cloud
 - 3 Important DevOps Practices
-	- Continuous Integration/Delivery/Deployment
+	- Continuous Integration
+	- Continuous Delivery/Deployment
 	- Infrastructure as Code
 	- Containers and Container Orchestration
 - 3 Reasons why Docker is popular
-	- Standardized  Application Packaging
-	- Language Neutral
+	- Standardized  Application Packaging (Language Neutral)
 	- Cloud Neutral
 	- Enables Standardization
 	- Less Performance Tax compared to Virtual Machines
-- 3 Important Docker Concepts
-	- Docker Image
-	- Docker Registry 
-		- Docker Hub
-		- Cloud Registries
-	- Container Orchestration
-- Docker in AWS
-- Docker in Azure
-- Docker in Google Cloud
-- 3 Best Practices in Building Docker Images
+- Building Docker Images - 3 Best Practices
 	- Keep them small
 	- Build them fast
 		- Understand layer caching
 	- Take care of security
 	- Understand networking
 - Kubernetes
-	- Manage 1000's of instances of 1000's of microservices Declaratively
+	- Manage 1000's of instances of 1000's of microservices declaratively
 	- Features : Auto Scaling, Service Discovery, Load Balancing, Self Healing, Zero Downtime Deployments
 	- Cloud Neutral - Standardized Platform  on any infrastructure
 - 3 Important Kubernetes Concepts
 	- Pods, Replica Sets, Service and Deployment
 - 3 Kubernetes Best Practices
 	- Version Control for Configuration Files
-	- Use Namespaces
-	- Service Mesh - Istio
+	- Security - Namespaces and RBAC
 	- Helm
-	- Security - Namespaces, RBAC and Firewall
+	- Service Mesh - Istio
 	- Set Resource Requests & Limits
 	- Ensure that Docker Best Practices are adhered to!
 	- Set up CI/CD
-- DevOps with Kubernetes 
+- DevOps with Kubernetes
 	- Simple Example
 - Microservices with Docker and Kubernetes
 - Why Container First?
@@ -64,9 +131,13 @@
 - Docker and Kubernetes Simplify DevOps
 	- Provision Clusters, Deploy Microservice Containers
 	- If you are using Docker containers for running your applications, the containers are self sufficient and will have all the required configuration packed into it for your application. In this case, the need of a configuration management tool like chef or puppet is not that much. But you still need something to manage your infrastructure with code. Because the containers will ultimately run on top of a server/vm in a cloud infra. Terraform can step in and create your required infra for your containers to run on.
-- Docker Compose vs Kubernetes vs Docker Swarm
+- Kubernetes vs Docker Compose vs Docker Swarm
+	- Kubernetes (CNCF)
+	- Docker Swarm - Container Orchestration with easier installation, limited features (less mature scaling, automatic load balancing, additional setup for logging and monitoring, restricted to Docker, less used and supported)
 - Kubernetes - OpenShift vs EKS vs AKS vs GKE
-- Continuous Integration vs Deployment vs Delivery
+- Docker in AWS
+- Docker in Azure
+- Docker in Google Cloud
 - Continuous Integration - 3 Best Practices
 	- Fast pipelines (Build time is important)
 	- Commit early, commit often
@@ -96,10 +167,12 @@
 	- All tools can be used on the cloud - AWS, Azure and Google Cloud
 	- Chef and Puppet use Master Server architecture and need Agents installed on all servers you want to manage
 - DevOps - Top 3 Continuous Integration & Deployment Tools
+	- https://radar.cncf.io/2020-06-continuous-delivery
 - DevOps - Top 3 IaaC Tools
-- DevOps - Top 3 Operations Tools
+- DevOps - Top 3 Observability Tools
+	- https://radar.cncf.io/2020-09-observability
 - SRE
-- SRE vs DevOp
+- SRE vs DevOps
 - 7Cs of DevOps
 	- Continuous (Planning, Development, Integration, Deployment, Testing, Delivery & Monitoring, and Feedback)
 - 5 DevOps Best Practices
@@ -112,30 +185,15 @@
 	- Immutable Infra
 	- Enable Low Risk Releases
 	- Culture
+- 4 DevOps Values (CAMS)
+	- Culture, Automation, Measurement and Sharing
+		- Scrum, Full stack (T-shaped), Fail fast
+		- Continuous improvement through Measurement (KPIs (Key Performance Indicators))
+		- Visibility, Transfer of knowledge
 
 ## Shorts
 
-- Shift Left
-	- Push Quality near to Source
-- Declarative Configuration
-	- Terraform or Kubernetes
-- Immutable Infrastructure
-	- Terraform
-- Dev Prod Parity
-- Knative
-- OpenShift
-- Pulumi
-- Helm
-- Istio
-- ECS vs Kubernetes
-- Docker Hub
-- GitOps
-- Anthos
-- Skaffold
-- Microk8s
-- ELK Stack
-- Is Terraform really Multi-Cloud?
-- Ansible
-- ArgoCD
-- Flux
+
+## For Future
 - Terraform Kitchen Inspec
+- Flux
