@@ -6,6 +6,7 @@
 
 ### Video Editing Guidelines
 
+- VIDEO EDITING: We would need to REMOVE a couple of minutes at the start of the conversation at 01:00
 - Thumbnail:NOT NEEDED
 - Video Title: Become an Architect - 3 - Application Architecture
 - TOC
