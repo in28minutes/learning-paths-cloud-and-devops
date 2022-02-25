@@ -30,4 +30,5 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Become an Architect - 1 - Code Reviews|[Video](https://youtu.be/ZBO3JTYgHwU)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/code-reviews.md)|
 |Pass the Google Cloud Professional Cloud Architect Certification |[Video](https://youtu.be/_CI8qgU4_1Y)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/pca-certiification.md)|
 |Become an Architect - 2 - Design Patterns|[Video](https://youtu.be/Peb98Tg55RQ)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/design-patterns.md)|
+|Become an Architect - 3 - Application Architecture|Target - Saturday|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/3-setting-up-app-architecture.md)|
 
