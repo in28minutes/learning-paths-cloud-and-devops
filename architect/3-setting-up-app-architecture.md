@@ -39,7 +39,13 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
-
+00:00:30 What is Modularity and its importance?
+00:03:47 Coupling and Cohesion
+00:11:45 Layered Architectures
+00:17:20 Modularity of Java
+00:23:32 Domain Models
+00:37:53 Choosing Language & Frameworks
+00:54:55 Closing
 
 #learning #career #technology #people #java #architect #javabrains #in28minutes #code #design-patterns #design
 ```
@@ -47,7 +53,7 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 ### Social Media Posts
 
 ```
-Koushik, Siva and Ranga discuss Application Architecture. Video - TODO
+Koushik, Siva and Ranga discuss Application Architecture. Video - https://youtu.be/yM5bIac21k0
 #learning #career #technology #people #java #architect #javabrains #in28minutes #code #design-patterns #design
 ```
 
