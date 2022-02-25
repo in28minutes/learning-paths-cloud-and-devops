@@ -54,7 +54,6 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ```
 Koushik, Siva and Ranga discuss Application Architecture. Video - TODO
-<!-- Koushik, Siva and Ranga discuss Application Architecture. Video - https://youtu.be/yM5bIac21k0 -->
 #learning #career #technology #people #java #architect #javabrains #in28minutes #code #design-patterns #design
 ```
 
