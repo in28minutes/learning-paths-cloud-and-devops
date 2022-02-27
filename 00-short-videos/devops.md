@@ -12,6 +12,10 @@
 	- Connect Tool/Concept with Architecture Styles (Serverless/Microservices/..)
 	- Top 3 Tools for a Concept!
 
+## New Batch
+
+- How to build great habits? - My favorite book
+
 ## DevOps
 
 - Recorded (2022-02-23)
@@ -43,7 +47,6 @@
 	- Short: Immutable Infrastructure in 1 Minute
 	- Short: OpenShift in 1 Minute
 	- Short: Pulumi in 1 Minute
-	- DELETE
 	- Short: Istio in 1 Minute
 	- Short: ECS vs Kubernetes in 1 Minute
 	- Short: Anthos in 1 Minute
@@ -57,6 +60,12 @@
 			- Still widely evaluated and used
 			- primarily used for existing deployments
 			- new applications have migrated to other solutions
+
+## Next
+- Build on your experience
+	- If you are a Java developer, learn how to containerize applications, learn how to deploy them to cloud, get a few cloud certification
+	- Rather than switching to data engineering or block chain or AI
+	- If you are a DBA, focus on data engineering, focus on data in the cloud!
 - Short: Ansible in 1 Minute
 - GitOps
 - Skaffold
@@ -184,6 +193,8 @@
 		- Scrum, Full stack (T-shaped), Fail fast
 		- Continuous improvement through Measurement (KPIs (Key Performance Indicators))
 		- Visibility, Transfer of knowledge
+- My favorite books!
+
 
 ## Shorts
 
