@@ -66,12 +66,74 @@
 	- If you are a Java developer, learn how to containerize applications, learn how to deploy them to cloud, get a few cloud certification
 	- Rather than switching to data engineering or block chain or AI
 	- If you are a DBA, focus on data engineering, focus on data in the cloud!
+- FinOps
+	- Value NOT just reducing costs
+	- Finance + DevOps
 - Short: Ansible in 1 Minute
+- AWS Cloud Development Kit
+	- First-class programming languages instead of configuration files
+	- TypeScript, JavaScript, Python, Java, C# and .NET
+- Azure DevOps
+	- Hosted Git repos, CI/CD pipelines, backlog management and artifact repository
+	- Multi-cloud deployments
+- AWS Fargate
+	- You don't want the complexity of K8S or ECS
+	- Run Docker containers without managing VMs
+	- Useful when AWS Lambda functions is not good enough for you!
+- Argo CD
+	- GitOps
+	- desired state vs cluster state
+- Binary attestation
+	- Is your container image (or binary) authorized for deployment?
+- Chaos Engineering
+	- Chaos Monkey from Netflix's Simian Army suite
+	- Running experiments in production to test the resilience of your distributed systems!
+	- Be careful
+- 4 Metrics from Google Cloud’s DevOps Research and Assessment (DORA) team 
+	- Change lead time
+	- Deployment frequency
+	- Mean time to restore (MTTR)
+	- Change fail percentage
 - GitOps
-- Skaffold
-- Microk8s
-- ArgoCD
+	- Continuous Deployment Approach
+	- 1: Declare Desired State in Git repository
+	- 2: Have an automated process to sync desired state to your prod environment
+	- To make a change, you update your git repo (never make changes directly to prod environment)
+	- Deploy Faster More Often, Fast Error Recovery (just revert), Self-documenting Deployments (complete history of changes)
+	- Can be Push ( Jenkins) or Pull (ArgoCD or Flux)
+	- Popularly used with Kubernetes (but not limited to it)
+- GitHub Actions
+	- code-defined pipeline
+	- Great starting point for smaller projects
+- Google BigQuery ML
+	- Run ML directly from BigQuery
+	- SQL-based approach
+- GraalVM
+	- Compiles Java code into a native binary ( serverless architecture)
+	- Ideal for Containers
+	- Small Footprint, Fast Startup
+	- High Performanсe. Cloud Native. Polyglot.
+	- There are complexities but supported by Micronaut, Spring, Helidon, and Quarkus.
+	- Bonus: Polyglot Programming (JVM based languages, Go, Rust)
+- Jaeger
+	- open source distributed tracing system
+	- complies with OpenTelemetry
+	- Integrates well with Istio and Prometheus
+- Jib
+	- Maven and Gradle
+	- Java Code to Docker Image without Dockerfile
+	- Optimizes image layering
 - Knative
+	- Run serverless workloads on Kubernetes
+	- scale-to-zero, autoscaling
+	- 3 components
+		- Build
+		- Serve
+		- Events
+- Skaffold
+	- automate local development workflows
+	- detects changes in source code (triggers workflows)
+- ArgoCD
 - Helm in 1 Minute
 - Cloud Native Computing Foundation (CNCF)
 	- vendor-neutral home for many of the fastest-growing open source projects (advance container technology)
@@ -88,6 +150,7 @@
 	- OpenTracing - Focused on Tracing
 	- OpenCensus - metrics + tracing
 	- OpenTelemetry = merging of OpenCensus + OpenTracing
+		- Great step to standardize observability and tools
 		- pluggable backends
 			- Prometheus (for metrics)
 			- Logstash, or FluentD, Elasticsearch (for logs), 
