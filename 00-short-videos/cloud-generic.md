@@ -1,3 +1,4 @@
+► Should you be an expert at Networking concepts?
 ► Are certifications a good way to start AWS journey?
 ► Which certifications to start with?
 ► What kind of role specific certifications are provided?
