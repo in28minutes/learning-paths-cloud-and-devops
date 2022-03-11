@@ -61,7 +61,7 @@
 			- primarily used for existing deployments
 			- new applications have migrated to other solutions
 
-## Next
+## Recording 11 March 2022
 
 - Docker and Kubernetes in Microservices Evolution
 	- Microservices Needs
@@ -146,6 +146,8 @@
 	- Flexible
 		- Build - Docker, Jib, Buildpacks, ...
 		- Deploy - kubectl, helm, kustomize, ..
+
+## Future
 - Cloud Native Computing Foundation (CNCF)
 	- vendor-neutral home for many of the fastest-growing open source projects (advance container technology)
 	- Founding members include Google, Red Hat, Twitter, Intel ..
