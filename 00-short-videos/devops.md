@@ -62,52 +62,144 @@
 			- new applications have migrated to other solutions
 
 ## Next
-- Build on your experience
-	- If you are a Java developer, learn how to containerize applications, learn how to deploy them to cloud, get a few cloud certification
-	- Rather than switching to data engineering or block chain or AI
-	- If you are a DBA, focus on data engineering, focus on data in the cloud!
-- FinOps
-	- Value NOT just reducing costs
-	- Finance + DevOps
+
+- Docker and Kubernetes in Microservices Evolution
+	- Microservices Needs
+		- Standardization
+		- Technology Infrastructure
+	- Docker/Containers enable Standardization
+	- Kubernetes/Container Orchestration enable Technology Infrastructure
+- Serverless vs Containers - What is winning?
+	- Serverless
+		- Pay for Use
+		- Do not worry about servers
+	- Containers enable Standardization
+	- Serverless - Functions > Container > Databases
+	- Containers - Container Orchestration
+	- Serverless & Containers - Both are winning
+- DELETE
+- Should you learn Cloud before DevOps?
+	- What is DevOps?
+	- What is Cloud?
+	- Enterprises use DevOps without Cloud
+	- DevOps is easy in the Cloud
+	- Start Learning Cloud First
+- Which DevOps tools to learn first?
+	- DevOps
+		- Communication, Feedback and Automation
+		- Entire Lifecycle of Software Development
+		- 100s of Tools
+		- Identify 5 Job Profiles You want to Apply
+			- Find Gaps
+			- Fill them
+		- Learn Cloud
+		- 3 Tools I Recommend: Docker, Kubernetes and Terraform
+- Which Job Next? Cloud or AI or ML or Data Engineering or Block Chain?
+	- Each of these is growing fast: Cloud, AI, ML, Data Engineering and Block Chain
+	- Which of these value your EXISTING SKILLS?
+	- Which of these is EASIER for you to MASTER?
+	- IDEALLY Switch to an area which builds on your experience
+		- Java developer: Docker > Kubernetes > Cloud Certifications
+		- DBA: Data engineering, focus on data in the cloud
 - Short: Ansible in 1 Minute
-- AWS Cloud Development Kit
+- What is AWS Cloud Development Kit? vs Terraform
 	- First-class programming languages instead of configuration files
 	- TypeScript, JavaScript, Python, Java, C# and .NET
-- Azure DevOps
-	- Hosted Git repos, CI/CD pipelines, backlog management and artifact repository
-	- Multi-cloud deployments
-- AWS Fargate
+- Running Serverless Containers: AWS Fargate, Google Cloud Run
 	- You don't want the complexity of K8S or ECS
 	- Run Docker containers without managing VMs
-	- Useful when AWS Lambda functions is not good enough for you!
-- Argo CD
-	- GitOps
-	- desired state vs cluster state
-- Binary attestation
-	- Is your container image (or binary) authorized for deployment?
-- Chaos Engineering
-	- Chaos Monkey from Netflix's Simian Army suite
-	- Running experiments in production to test the resilience of your distributed systems!
-	- Be careful
-- 4 Metrics from Google Cloud’s DevOps Research and Assessment (DORA) team 
-	- Change lead time
-	- Deployment frequency
-	- Mean time to restore (MTTR)
-	- Change fail percentage
+	- Google Cloud Option: Cloud Run (Knative compatible)
+	- AWS Solution: AWS Fargate
+- 4 Key DevOps Metrics | Evaluate DevOps Maturity of an Enterprise
+	- Google Cloud’s DevOps Research and Assessment (DORA) Report
+		- Change lead time: Time gap between commit and production release
+		- Deployment frequency: How often do you release to production?
+		- Mean time to restore (MTTR): How fast can you recover from production errors?
+		- Change fail percentage: Percentage of failed deployments
+- DELETE
 - GitOps
-	- Continuous Deployment Approach
 	- 1: Declare Desired State in Git repository
-	- 2: Have an automated process to sync desired state to your prod environment
-	- To make a change, you update your git repo (never make changes directly to prod environment)
-	- Deploy Faster More Often, Fast Error Recovery (just revert), Self-documenting Deployments (complete history of changes)
-	- Can be Push ( Jenkins) or Pull (ArgoCD or Flux)
+	- 2: Sync Desired State to PROD using automated process
+	- RULE: To make a change, you update your git repo 
+		- Never make changes directly to prod environment
+	- Advantages: 
+		- Deploy Faster More Often
+		- Fast Error Recovery (just revert)
+		- Self-documenting Deployments (complete history of changes)
+	- Can be Push (Jenkins) or Pull (ArgoCD or Flux)
 	- Popularly used with Kubernetes (but not limited to it)
 - GitHub Actions
-	- code-defined pipeline
+	- Continuous integration and continuous delivery (CI/CD) platform
+	- Workflow is triggered by an event
+		- Workflow contains jobs which can have multiple steps - Each step can be associated with an action or a script
+	- Code-defined workflow - A workflow can contain actions created by the community, or you can create your own actions directly within your application's repository.
+	- Support for Node.js, Python, Java, Ruby, PHP, Go, Rust, .NET apps
 	- Great starting point for smaller projects
-- Google BigQuery ML
-	- Run ML directly from BigQuery
-	- SQL-based approach
+	- Deploy to cloud 
+- DELETE
+- Skaffold
+	- Fast. Repeatable. Simple.
+	- Local Kubernetes Development.
+	- automate local development workflows
+	- detects changes in source code (triggers workflows)
+	- Skaffold handles the workflow for building, pushing and deploying your application, allowing you to focus on what matters most: writing code.
+	- Flexible
+		- Build - Docker, Jib, Buildpacks, ...
+		- Deploy - kubectl, helm, kustomize, ..
+- Cloud Native Computing Foundation (CNCF)
+	- vendor-neutral home for many of the fastest-growing open source projects (advance container technology)
+	- Founding members include Google, Red Hat, Twitter, Intel ..
+	- containerd (Container Runtime), Kubernetes, Jaeger, fluentd (Logging), Prometheus, Linkerd (Service Mesh) and Helm ("package manager")
+	- CKA and CKAD
+- Observability vs Logging vs Tracing vs Metrics
+	- what’s happening in production without changing your code (solving problems by putting data to work)
+	- Scope is bigger than monitoring
+	- Traces + Metrics + Logs
+	- Instrumentation
+	- OpenTelemetry
+- OpenTelemetry vs OpenCensus vs OpenTracing
+	- OpenTracing - Focused on Tracing
+	- OpenCensus - metrics + tracing
+	- OpenTelemetry = merging of OpenCensus + OpenTracing
+		- Great step to standardize observability and tools
+		- pluggable backends
+			- Prometheus (for metrics)
+			- Logstash, or FluentD, Elasticsearch (for logs), 
+			- Jaeger, Zipkin (for traces)
+		- Integration with AWS, Azure, Google Cloud
+- 3 Important DevOps Practices
+	- Continuous Integration
+	- Continuous Delivery/Deployment
+	- Infrastructure as Code
+	- Containers and Container Orchestration
+- Building Container Images - 3 Best Practices
+	- Keep them small
+	- Build them fast
+		- Understand layer caching
+	- Take care of security
+	- Understand networking
+- 3 Important Kubernetes Concepts
+	- Pods, Replica Sets, Service and Deployment
+- Docker and Kubernetes Simplify DevOps
+	- Provision Clusters, Deploy Microservice Containers
+	- If you are using Docker containers for running your applications, the containers are self sufficient and will have all the required configuration packed into it for your application. In this case, the need of a configuration management tool like chef or puppet is not that much. But you still need something to manage your infrastructure with code. Because the containers will ultimately run on top of a server/vm in a cloud infra. Terraform can step in and create your required infra for your containers to run on.
+- Kubernetes vs Docker Compose vs Docker Swarm
+	- Kubernetes (CNCF)
+	- Docker Swarm - Container Orchestration with easier installation, limited features (less mature scaling, automatic load balancing, additional setup for logging and monitoring, restricted to Docker, less used and supported)
+- Kubernetes - OpenShift vs EKS vs AKS vs GKE
+- Running Docker in AWS
+- Running Docker in Azure
+- Running Docker in Google Cloud
+- 3 Kubernetes Best Practices
+	- Version Control for Configuration Files
+	- Security - Namespaces and RBAC
+	- Helm
+	- Service Mesh - Istio
+	- Set Resource Requests & Limits
+	- Ensure that Docker Best Practices are adhered to!
+	- Set up CI/CD
+- DevOps with Kubernetes
+	- Simple Example
 - GraalVM
 	- Compiles Java code into a native binary ( serverless architecture)
 	- Ideal for Containers
@@ -130,80 +222,7 @@
 		- Build
 		- Serve
 		- Events
-- Skaffold
-	- automate local development workflows
-	- detects changes in source code (triggers workflows)
-- ArgoCD
-- Helm in 1 Minute
-- Cloud Native Computing Foundation (CNCF)
-	- vendor-neutral home for many of the fastest-growing open source projects (advance container technology)
-	- Founding members include Google, Red Hat, Twitter, Intel ..
-	- containerd (Container Runtime), Kubernetes, Jaeger, fluentd (Logging), Prometheus, Linkerd (Service Mesh) and Helm ("package manager")
-	- CKA and CKAD
-- Observability
-	- what’s happening in production without changing your code (solving problems by putting data to work)
-	- Scope is bigger than monitoring
-	- Traces + Metrics + Logs
-	- Instrumentation
-	- OpenTelemetry
-- OpenTelemetry vs OpenCensus vs OpenTracing
-	- OpenTracing - Focused on Tracing
-	- OpenCensus - metrics + tracing
-	- OpenTelemetry = merging of OpenCensus + OpenTracing
-		- Great step to standardize observability and tools
-		- pluggable backends
-			- Prometheus (for metrics)
-			- Logstash, or FluentD, Elasticsearch (for logs), 
-			- Jaeger, Zipkin (for traces)
-		- Integration with AWS, Azure, Google Cloud
-- 3 Important DevOps Practices
-	- Continuous Integration
-	- Continuous Delivery/Deployment
-	- Infrastructure as Code
-	- Containers and Container Orchestration
-- 3 Reasons why Docker is popular
-	- Standardized  Application Packaging (Language Neutral)
-	- Cloud Neutral
-	- Enables Standardization
-	- Less Performance Tax compared to Virtual Machines
-- Building Docker Images - 3 Best Practices
-	- Keep them small
-	- Build them fast
-		- Understand layer caching
-	- Take care of security
-	- Understand networking
-- Kubernetes
-	- Manage 1000's of instances of 1000's of microservices declaratively
-	- Features : Auto Scaling, Service Discovery, Load Balancing, Self Healing, Zero Downtime Deployments
-	- Cloud Neutral - Standardized Platform  on any infrastructure
-- 3 Important Kubernetes Concepts
-	- Pods, Replica Sets, Service and Deployment
-- 3 Kubernetes Best Practices
-	- Version Control for Configuration Files
-	- Security - Namespaces and RBAC
-	- Helm
-	- Service Mesh - Istio
-	- Set Resource Requests & Limits
-	- Ensure that Docker Best Practices are adhered to!
-	- Set up CI/CD
-- DevOps with Kubernetes
-	- Simple Example
 - Microservices with Docker and Kubernetes
-- Why Container First?
-	- Standardization
-	- Flexibility
-	- Cloud Neutral
-	- Better Performance
-- Docker and Kubernetes Simplify DevOps
-	- Provision Clusters, Deploy Microservice Containers
-	- If you are using Docker containers for running your applications, the containers are self sufficient and will have all the required configuration packed into it for your application. In this case, the need of a configuration management tool like chef or puppet is not that much. But you still need something to manage your infrastructure with code. Because the containers will ultimately run on top of a server/vm in a cloud infra. Terraform can step in and create your required infra for your containers to run on.
-- Kubernetes vs Docker Compose vs Docker Swarm
-	- Kubernetes (CNCF)
-	- Docker Swarm - Container Orchestration with easier installation, limited features (less mature scaling, automatic load balancing, additional setup for logging and monitoring, restricted to Docker, less used and supported)
-- Kubernetes - OpenShift vs EKS vs AKS vs GKE
-- Docker in AWS
-- Docker in Azure
-- Docker in Google Cloud
 - Continuous Integration - 3 Best Practices
 	- Fast pipelines (Build time is important)
 	- Commit early, commit often
@@ -257,6 +276,24 @@
 		- Continuous improvement through Measurement (KPIs (Key Performance Indicators))
 		- Visibility, Transfer of knowledge
 - My favorite books!
+- Argo CD
+	- GitOps
+	- desired state vs cluster state
+- Binary attestation
+	- Is your container image (or binary) authorized for deployment?
+- Chaos Engineering
+	- Chaos Monkey from Netflix's Simian Army suite
+	- Running experiments in production to test the resilience of your distributed systems!
+	- Be careful
+- DevOps vs FinOps
+	- Value NOT just reducing costs
+	- Finance + DevOps
+- What is Azure DevOps?
+	- Hosted Git repos
+	- CI/CD pipelines
+	- Artifact repository
+	- Backlog management
+	- Multi-cloud deployments
 
 
 ## Shorts
