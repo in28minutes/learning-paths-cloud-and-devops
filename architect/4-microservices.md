@@ -42,6 +42,14 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:03:20 Microservices History
+00:10:35 Important challenges in implementing Microservices
+00:16:05 How to identify the service boundaries in Microservices? 
+00:20:51 Best practices in Microservices.
+00:27:59 Evolution of Containers and Container Orchestration.
+00:34:20 Impact of Serverless Compute.
+00:47:04 Custom Distributions of Kubernetes.
+00:55:28 Closing
 
 #javabrains #in28minutes #microservices #career #technology #people #java #architect
 ```
@@ -52,7 +60,7 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 Excited to bring our latest discussion.
 Koushik, Siva and Ranga are discussing Microservices.
 
-Here's the complete discussion - TODO
+Here's the complete discussion - https://youtu.be/R2wzkhvXanA
 
 #javabrains #in28minutes #microservices #career #technology #people #java #architect
 ```
