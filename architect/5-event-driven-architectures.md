@@ -44,6 +44,16 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:01:55 What is Event Driven Architectures?
+00:06:41 How is event driven architectures different from asynchronous communication?
+00:14:16 Elaboration on One-to-one vs publish-subscribe in event driven architectures
+00:20:15 Patterns in event driven architectures for distributed transactions
+00:29:12 Technology enabling event driven architectures
+00:32:56 Challenges in event driven architectures and best practices
+00:39:04 Event Sourcing and SAGA Pattern(choreography and orchestration)
+00:45:38 How to handle idempotency?
+00:50:21 Language suggestions to develop event driven architectures
+00:53:39 Closing
 
 #javabrains #in28minutes #eventdriven #career #technology #people #java #architect
 ```
@@ -55,7 +65,7 @@ Another exciting video is ready.
 
 This time I'm discussing Event Driven Architectures with Koushik and Siva.
 
-Here's the complete discussion - TODO
+Here's the complete discussion - https://youtu.be/KDq5e5oQrCc
 
 #javabrains #in28minutes #career #technology #people #java #architect
 ```
