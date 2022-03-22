@@ -33,5 +33,5 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Become an Architect - 3 - Application Architecture|[Video](https://youtu.be/yM5bIac21k0)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/3-setting-up-app-architecture.md)|
 |Evolution in AI, ML and Data Engineering with Dan Sullivan|[Video](https://youtu.be/v3yOeMbD-p8)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/dan-sullivan.md)|
 |Become an Architect - 4 - Microservices|[Video](https://youtu.be/R2wzkhvXanA)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/4-microservices.md)|
-|Become an Architect - 5 - Event Driven Architectures|Target - [Video](https://youtu.be/KDq5e5oQrCc)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/5-event-driven-architectures.md)|
+|Become an Architect - 5 - Event Driven Architectures|[Video](https://youtu.be/KDq5e5oQrCc)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/5-event-driven-architectures.md)|
 
