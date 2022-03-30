@@ -34,4 +34,4 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Evolution in AI, ML and Data Engineering with Dan Sullivan|[Video](https://youtu.be/v3yOeMbD-p8)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/google-cloud/dan-sullivan.md)|
 |Become an Architect - 4 - Microservices|[Video](https://youtu.be/R2wzkhvXanA)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/4-microservices.md)|
 |Become an Architect - 5 - Event Driven Architectures|[Video](https://youtu.be/KDq5e5oQrCc)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/5-event-driven-architectures.md)|
-|Become an Architect - 6 - Reactive Programming|Target - Saturday 2 APR 2022|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/6-reactive-programming.md)|
+|Become an Architect - 6 - Reactive Programming|[Video](https://youtu.be/FwlNB_Jk3G4)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/6-reactive-programming.md)|
