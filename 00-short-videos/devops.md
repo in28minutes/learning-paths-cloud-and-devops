@@ -77,7 +77,6 @@
 	- Serverless - Functions > Container > Databases
 	- Containers - Container Orchestration
 	- Serverless & Containers - Both are winning
-- DELETE
 - Should you learn Cloud before DevOps?
 	- What is DevOps?
 	- What is Cloud?
@@ -116,7 +115,6 @@
 		- Deployment frequency: How often do you release to production?
 		- Mean time to restore (MTTR): How fast can you recover from production errors?
 		- Change fail percentage: Percentage of failed deployments
-- DELETE
 - GitOps
 	- 1: Declare Desired State in Git repository
 	- 2: Sync Desired State to PROD using automated process
