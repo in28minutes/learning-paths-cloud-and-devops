@@ -11,7 +11,13 @@
 | 3 - Docker | None|
 | 4 - Kubernetes | None|
 | 5 - Serverless| 09:10 (about 20 seconds)|
-| 6 - Compute |First Minute, 14 th Minute|
+| 6 - Compute |TWO PARTS - First Minute, Part 1 - Take upto 12:40. Add Part 2|
+|7 - Storage| Little hiccups at the start and the end|
+|8 - Object Storage|Little hiccups in last 2 minutes|
+|9 - Relational Databases| Lots of edits :) Hiccups in the inital 10 minutes! |
+|10 - NoSQL Databases|Lots of edits :) Hiccups throughout!|
 
 ## Last Title
-Cloud Made Easy - 6 - Compute - AWS, Azure and Google Cloud
+
+
+Cloud Made Easy - 10 - NoSQL Databases - AWS, Azure and Google Cloud
