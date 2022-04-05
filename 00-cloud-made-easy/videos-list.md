@@ -16,8 +16,13 @@
 |8 - Object Storage|Little hiccups in last 2 minutes|
 |9 - Relational Databases| Lots of edits :) Hiccups in the inital 10 minutes! |
 |10 - NoSQL Databases|Lots of edits :) Hiccups throughout!|
+|11 - Networking|Lots of edits :) Hiccups throughout!|
+|AWS for Beginners - 50 Services in 50 Minutes - Cloud Computing for Beginners||
+|Azure for Beginners - 50 Services in 50 Minutes - Cloud Computing for Beginners||
+|Google Cloud for Beginners - 50 Services in 50 Minutes - Cloud Computing for Beginners||
+
 
 ## Last Title
 
 
-Cloud Made Easy - 10 - NoSQL Databases - AWS, Azure and Google Cloud
+Cloud Made Easy - 11 - Networking - AWS, Azure and Google Cloud
