@@ -20,6 +20,7 @@
 |AWS for Beginners - 50 Services in 50 Minutes - Cloud Computing for Beginners||
 |Azure for Beginners - 50 Services in 50 Minutes - Cloud Computing for Beginners||
 |Google Cloud for Beginners - 50 Services in 50 Minutes - Cloud Computing for Beginners||
+|DevOps for Beginners - 50 Tools in 50 Minutes - Docker, Kubernetes, Terraform & more.. | I kept the mike down after about 5 minutes |
 
 
 ## Last Title
