@@ -1,7 +1,9 @@
 ## What?
 
-- Ranga Karanam. Founder of in28minutes. Teaching Programming, Cloud and DevOps to a Million learners on Udemy.
-- Understand cloud fundamentals => AWS, Azure and Google Cloud will be easy to learn.
+Do you think Cloud is difficult?
+
+I'm Ranga Karanam. I'm 10X AWS, Azure and Google Cloud Certified. I've helped 1 Million learners start their Cloud (AWS, Azure, Google Cloud), DevOps and Programming journeys. If you understand the fundamentals, learning anything is easy. And the same is the case with the cloud! If you understand cloud fundamentals, learning AWS, Azure and Google Cloud will become easy! Even non-techies (business analysts and testers) can easily understand the cloud! And that's what we are doing in this series of videos. Our goal is to create a video every week helping your learn the cloud.
+
 - Cloud is NOT restricted to techies. Business Analysts, Testers, Sales Teams and Leadership need to understand the cloud.
 - Series of weekly videos. Do not forget to subscribe!
 
