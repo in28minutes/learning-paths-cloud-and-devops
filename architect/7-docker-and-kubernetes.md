@@ -32,6 +32,8 @@ None
 ```
 Become an Architect - 7 - Docker & Kubernetes
 
+Siva's Articles on Kubernetes - https://www.sivalabs.in/2021/09/getting-started-with-kubernetes/
+
 You can checkout Koushik's Podcast - The Artifact at https://theartifact.io
 
 Koushik (https://javabrains.io/), Siva (https://www.sivalabs.in/) and Ranga discuss Docker & Kubernetes.
