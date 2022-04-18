@@ -44,6 +44,17 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:00:36 Why Docker? 
+00:04:16 Role of Docker in simplifying DevOps 
+00:11:57 Best Practices of containers for Java applications
+00:17:35 Optimization of container on startup time and memory.
+00:21:59 Are Java Frameworks (Spring Boot, Quarkus and Micronaut) container ready?
+00:28:03 Why Container Orchestration?
+00:33:33 Why Docker Swarm was not popular?
+00:38:17 Concepts to focus on when getting started with Kubernetes.
+00:51:36 Important Kubernetes Concepts - Declarative, Service Mesh, Helm
+00:55:05 GitOps
+01:01:24 Closing
 
 #javabrains #in28minutes #kubernetes #docker #career #technology  #java #architect
 ```
@@ -57,7 +68,7 @@ As far as I am concerned, Docker and Kubernetes are 2 of the 5 most exciting tec
 
 We discuss Docker and Kubernetes with Koushik and Siva.
 
-Here's the complete discussion - https://youtu.be/FwlNB_Jk3G4
+Here's the complete discussion - https://youtu.be/RuVSApVqGOs
 
 #javabrains #in28minutes #kubernetes #docker #career #technology  #java #architect
 
@@ -68,7 +79,7 @@ Here's the complete discussion - https://youtu.be/FwlNB_Jk3G4
 ```
 Draft overview for Docker & Kubernetes (Your thoughts are welcome):
 - What is Docker?
-- Role of Docker in simplifying DevOps
+- Role of Docker in simplifying DevOps 
 - Are Java Frameworks (Spring Boot, Quarkus and Micronaut) container ready?
 - Creating containers for Java Applications - Dockerfile, JIB, Maven Plugins
 - Docker Best Practices
