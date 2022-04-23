@@ -43,7 +43,7 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 00:01:03 Why Organizing Code is important?
 00:07:16 Overview of Methods, Classes, Packages and Layers
 00:13:53 Package by Layer vs Package by Feature
-00:22:59 Functional Programming Principles.
+00:22:59 Functional Programming Principles
 00:32:28 Evolution of Orthogonal Architecture
 00:42:53 How to choose Architecture style?
 00:52:44 Cross-Cutting Concerns
