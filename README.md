@@ -36,4 +36,4 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Become an Architect - 5 - Event Driven Architectures|[Video](https://youtu.be/KDq5e5oQrCc)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/5-event-driven-architectures.md)|
 |Become an Architect - 6 - Reactive Programming|[Video](https://youtu.be/FwlNB_Jk3G4)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/6-reactive-programming.md)|
 |Become an Architect - 7 - Docker and Kubernetes|[Video](https://youtu.be/RuVSApVqGOs)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/7-docker-and-kubernetes.md)|
-|Become an Architect - 8 - Organizing Code|Target - 30 Apr 2022|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/8-organizing-code.md)|
+|Become an Architect - 8 - Organizing Code|[Video](https://youtu.be/USZSIN0eBpQ)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/8-organizing-code.md)|
