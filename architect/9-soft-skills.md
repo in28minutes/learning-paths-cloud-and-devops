@@ -38,6 +38,12 @@ Earlier Discussions - https://www.youtube.com/watch?v=WSjaBnOWQ40&list=PLBBog2r6
 
 ▬▬▬▬▬▬ Chapters ▬▬▬▬▬▬ 
 00:00:00 Introduction
+00:00:45 Important areas to focus on when getting started with Soft skills.
+00:06:45 Importance of Empathy.
+00:13:57 Making right decisions and communicating them effectively as an Architect.
+00:29:27 How to learn new technologies quickly and effectively? 
+00:46:10 Importance of Mentoring.
+00:59:52 Closing
 
 #javabrains #in28minutes #softskills #architect
 ```
@@ -49,7 +55,7 @@ Time for another exciting discussion.
 
 We discuss importance of soft skills with Koushik and Siva.
 
-Here's the complete discussion - TODO
+Here's the complete discussion - https://youtu.be/qw7gDdzRc2k
 
 #javabrains #in28minutes #softskills #architect
 
