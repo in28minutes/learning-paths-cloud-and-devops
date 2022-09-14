@@ -883,13 +883,12 @@ source: (https://cloud.google.com)
 | Feature | AWS  | GCP | Azure|
 |--|:--|:--|:--|
 |CI/CD|CodeDeploy, CodeCommit, CodePipeline|Cloud Build|Azure DevOps|
-|Monitoring||||
 |Monitoring|Amazon CloudWatch|Cloud Monitoring|Azure Monitor|
 |Logging|Amazon CloudWatch Logs|Cloud Logging|Azure Monitor Logs|
 |Audit logging|AWS CloudTrail|Cloud Audit Logs|Azure platform logs (Resource logs, Activity log, Azure AD logs)|
 |Debugging|AWS X-Ray|Cloud Debugger|Azure Monitor Application Insights Snapshot Debugger|
 |Performance tracing|AWS X-Ray|Cloud Trace|Azure Monitor Application Insights Distributed Tracing|
-|How do you automate deployment?|AWS CloudFormation, AWS Cloud Development Kit (AWS CDK)|Cloud Deployment Manager|Azure Deployment Manager, Azure Resource Manager (ARM) templates, Bicep|
+|How do you automate deployment?|AWS CloudFormation, AWS SAM, AWS Cloud Development Kit (AWS CDK)|Cloud Deployment Manager|Azure Deployment Manager, Azure Resource Manager (ARM) templates, Bicep|
 
 
 ---

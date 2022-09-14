@@ -38,3 +38,15 @@ Not find answers to your question - [Raise an issue](https://github.com/in28minu
 |Become an Architect - 7 - Docker and Kubernetes|[Video](https://youtu.be/RuVSApVqGOs)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/7-docker-and-kubernetes.md)|
 |Become an Architect - 8 - Organizing Code|[Video](https://youtu.be/USZSIN0eBpQ)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/8-organizing-code.md)|
 |Become an Architect - 9 - Soft Skills|[Video](https://youtu.be/qw7gDdzRc2k)|[Github](https://github.com/in28minutes/learning-paths-cloud-and-devops/blob/main/architect/9-soft-skills.md)|
+
+## Keep Learning Every Day
+- **1:** [FOLLOW](https://links.in28minutes.com/lin) Ranga on LinkedIn
+
+## Check Out Our Amazing ROADMAPS
+- **1:** [AWS Roadmap](https://github.com/in28minutes/roadmaps/blob/main/README.md#aws-roadmap)
+- **2:** [Azure Roadmap](https://github.com/in28minutes/roadmaps/blob/main/README.md#azure-roadmap)
+- **3:** [Google Cloud Roadmap](https://github.com/in28minutes/roadmaps/blob/main/README.md#google-cloud-roadmap)
+- **4:** [Cloud Beginner Roadmap](https://github.com/in28minutes/roadmaps/blob/main/README.md#cloud-beginner-roadmap)
+- **5:** [DevOps Roadmap](https://github.com/in28minutes/roadmaps/blob/main/README.md#devops-roadmap)
+- **6:** [Java Full Stack Roadmap](https://github.com/in28minutes/roadmaps/blob/main/README.md#java-full-stack-roadmap)
+- **7:** [Java Microservices Roadmap](https://github.com/in28minutes/roadmaps/blob/main/README.md#java-microservices-roadmap)
