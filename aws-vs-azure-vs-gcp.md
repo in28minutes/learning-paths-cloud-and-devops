@@ -1,6 +1,4 @@
----
 ## 10,000 Feet - GCP vs AWS vs Azure - Compute and Networking
-
 | Question | AWS  | GCP | Azure|
 |--|:--|:--|:--|
 |How do you create Virtual Machines?|Amazon EC2 |Google Compute Engine (GCE)|Azure Virtual Machines|
